@@ -1,0 +1,3732 @@
+images: total tally:
+[{:name=>"BotoCalendarNext.gif",
+  :path=>"BotoCalendarNext.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"BotoCalendarPrevious.gif",
+  :path=>"BotoCalendarPrevious.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"BtnMenu.gif", :path=>"BtnMenu.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"BtnProactivity.gif",
+  :path=>"BtnProactivity.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"44EF3B.gif",
+  :path=>"COLORS/44EF3B.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4B78A1.gif",
+  :path=>"COLORS/4B78A1.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"C777EF.gif",
+  :path=>"COLORS/C777EF.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CF0C0C.gif",
+  :path=>"COLORS/CF0C0C.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"FFBE0F.gif",
+  :path=>"COLORS/FFBE0F.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"COLORS/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"black.gif", :path=>"COLORS/black.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"brown.gif", :path=>"COLORS/brown.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"grey.gif", :path=>"COLORS/grey.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"plum.gif", :path=>"COLORS/plum.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"purple.gif",
+  :path=>"COLORS/purple.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_0_0p.bmp",
+  :path=>"Dosis/1_mg_print_0_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_0_5p.bmp",
+  :path=>"Dosis/1_mg_print_0_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_1_0p.bmp",
+  :path=>"Dosis/1_mg_print_1_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_1_5p.bmp",
+  :path=>"Dosis/1_mg_print_1_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_2_0p.bmp",
+  :path=>"Dosis/1_mg_print_2_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_2_5p.bmp",
+  :path=>"Dosis/1_mg_print_2_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_3_0p.bmp",
+  :path=>"Dosis/1_mg_print_3_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_3_5p.bmp",
+  :path=>"Dosis/1_mg_print_3_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_4_0p.bmp",
+  :path=>"Dosis/1_mg_print_4_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_4_5p.bmp",
+  :path=>"Dosis/1_mg_print_4_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_5_0p.bmp",
+  :path=>"Dosis/1_mg_print_5_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_ip.bmp",
+  :path=>"Dosis/1_mg_print_ip.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_print_p.bmp",
+  :path=>"Dosis/1_mg_print_p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_0_0p.bmp",
+  :path=>"Dosis/1_mg_screen_0_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_0_5p.bmp",
+  :path=>"Dosis/1_mg_screen_0_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_1_0p.bmp",
+  :path=>"Dosis/1_mg_screen_1_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_1_5p.bmp",
+  :path=>"Dosis/1_mg_screen_1_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_2_0p.bmp",
+  :path=>"Dosis/1_mg_screen_2_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_2_5p.bmp",
+  :path=>"Dosis/1_mg_screen_2_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_3_0p.bmp",
+  :path=>"Dosis/1_mg_screen_3_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_3_5p.bmp",
+  :path=>"Dosis/1_mg_screen_3_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_4_0p.bmp",
+  :path=>"Dosis/1_mg_screen_4_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_4_5p.bmp",
+  :path=>"Dosis/1_mg_screen_4_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"1_mg_screen_5_0p.bmp",
+  :path=>"Dosis/1_mg_screen_5_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_0_0p.bmp",
+  :path=>"Dosis/4_mg_print_0_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_0_125p.bmp",
+  :path=>"Dosis/4_mg_print_0_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_0_25p.bmp",
+  :path=>"Dosis/4_mg_print_0_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_0_5p.bmp",
+  :path=>"Dosis/4_mg_print_0_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_0_75p.bmp",
+  :path=>"Dosis/4_mg_print_0_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_1_0p.bmp",
+  :path=>"Dosis/4_mg_print_1_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_1_125p.bmp",
+  :path=>"Dosis/4_mg_print_1_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_1_25p.bmp",
+  :path=>"Dosis/4_mg_print_1_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_1_5p.bmp",
+  :path=>"Dosis/4_mg_print_1_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_1_75p.bmp",
+  :path=>"Dosis/4_mg_print_1_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_2_0p.bmp",
+  :path=>"Dosis/4_mg_print_2_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_2_125p.bmp",
+  :path=>"Dosis/4_mg_print_2_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_2_25p.bmp",
+  :path=>"Dosis/4_mg_print_2_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_2_5p.bmp",
+  :path=>"Dosis/4_mg_print_2_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_2_75p.bmp",
+  :path=>"Dosis/4_mg_print_2_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_3_0p.bmp",
+  :path=>"Dosis/4_mg_print_3_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_ip_.bmp",
+  :path=>"Dosis/4_mg_print_ip_.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_print_p.bmp",
+  :path=>"Dosis/4_mg_print_p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_0_0p.bmp",
+  :path=>"Dosis/4_mg_screen_0_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_0_125p.bmp",
+  :path=>"Dosis/4_mg_screen_0_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_0_25p.bmp",
+  :path=>"Dosis/4_mg_screen_0_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_0_5p.bmp",
+  :path=>"Dosis/4_mg_screen_0_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_0_75p.bmp",
+  :path=>"Dosis/4_mg_screen_0_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_1_0p.bmp",
+  :path=>"Dosis/4_mg_screen_1_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_1_125p.bmp",
+  :path=>"Dosis/4_mg_screen_1_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_1_25p.bmp",
+  :path=>"Dosis/4_mg_screen_1_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_1_5p.bmp",
+  :path=>"Dosis/4_mg_screen_1_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_1_75p.bmp",
+  :path=>"Dosis/4_mg_screen_1_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_2_0p.bmp",
+  :path=>"Dosis/4_mg_screen_2_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_2_125p.bmp",
+  :path=>"Dosis/4_mg_screen_2_125p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_2_25p.bmp",
+  :path=>"Dosis/4_mg_screen_2_25p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_2_5p.bmp",
+  :path=>"Dosis/4_mg_screen_2_5p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_2_75p.bmp",
+  :path=>"Dosis/4_mg_screen_2_75p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"4_mg_screen_3_0p.bmp",
+  :path=>"Dosis/4_mg_screen_3_0p.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"BLANCO.jpg",
+  :path=>"Dosis/BLANCO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Base1.bmp", :path=>"Dosis/Base1.bmp", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Base2.bmp", :path=>"Dosis/Base2.bmp", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"COMENTARIO.jpg",
+  :path=>"Dosis/COMENTARIO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"COMENTARIOgris.bmp",
+  :path=>"Dosis/COMENTARIOgris.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"COMENTARIOgris.jpg",
+  :path=>"Dosis/COMENTARIOgris.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdACEPTAR.jpg",
+  :path=>"Dosis/CmdACEPTAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCACEPTAR.jpg",
+  :path=>"Dosis/CmdCACEPTAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCANCELAR.jpg",
+  :path=>"Dosis/CmdCANCELAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCCANCELAR.jpg",
+  :path=>"Dosis/CmdCCANCELAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCDICCIONARIO.jpg",
+  :path=>"Dosis/CmdCDICCIONARIO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCITA.jpg",
+  :path=>"Dosis/CmdCITA.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCOMPET.jpg",
+  :path=>"Dosis/CmdCOMPET.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCOMPRU.jpg",
+  :path=>"Dosis/CmdCOMPRU.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCONSULTA.jpg",
+  :path=>"Dosis/CmdCONSULTA.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdCSALIR.jpg",
+  :path=>"Dosis/CmdCSALIR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdDEMOGRAFICOS.jpg",
+  :path=>"Dosis/CmdDEMOGRAFICOS.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdDISTRIBUCION.jpg",
+  :path=>"Dosis/CmdDISTRIBUCION.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdIMPRIMIR.jpg",
+  :path=>"Dosis/CmdIMPRIMIR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdINFCOPIA.jpg",
+  :path=>"Dosis/CmdINFCOPIA.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdINFPREVIO.jpg",
+  :path=>"Dosis/CmdINFPREVIO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdREGPRU.jpg",
+  :path=>"Dosis/CmdREGPRU.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdREPETIR.jpg",
+  :path=>"Dosis/CmdREPETIR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdRESULTADOS.jpg",
+  :path=>"Dosis/CmdRESULTADOS.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdSALIR.jpg",
+  :path=>"Dosis/CmdSALIR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"CmdVALIDAR.jpg",
+  :path=>"Dosis/CmdVALIDAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"DICCIONARIO.jpg",
+  :path=>"Dosis/DICCIONARIO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstAIMPVAUTO.jpg",
+  :path=>"Dosis/EstAIMPVAUTO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstAIMPVMAN.jpg",
+  :path=>"Dosis/EstAIMPVMAN.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstAVALIDAR.jpg",
+  :path=>"Dosis/EstAVALIDAR.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstHISTORICO.jpg",
+  :path=>"Dosis/EstHISTORICO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstIMPVAUTO.jpg",
+  :path=>"Dosis/EstIMPVAUTO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstIMPVMAN.jpg",
+  :path=>"Dosis/EstIMPVMAN.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstSINCITA.jpg",
+  :path=>"Dosis/EstSINCITA.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstSINDOSIS.jpg",
+  :path=>"Dosis/EstSINDOSIS.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"EstSINRESULTADO.jpg",
+  :path=>"Dosis/EstSINRESULTADO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"GRIS.bmp", :path=>"Dosis/GRIS.bmp", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"GRIS.jpg", :path=>"Dosis/GRIS.jpg", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Jeringuilla.bmp",
+  :path=>"Dosis/Jeringuilla.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"No_X_mg_screen.bmp",
+  :path=>"Dosis/No_X_mg_screen.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Print.jpg", :path=>"Dosis/Print.jpg", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"REPETIDO.jpg",
+  :path=>"Dosis/REPETIDO.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Sin t\xF0tulo1.jpg",
+  :path=>"Dosis/Sin t\xF0tulo1.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"Dosis/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"X_mg_screen.bmp",
+  :path=>"Dosis/X_mg_screen.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aldocumar10mg.jpg",
+  :path=>"Dosis/aldocumar10mg.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aldocumar1mg.jpg",
+  :path=>"Dosis/aldocumar1mg.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aldocumar3mg.jpg",
+  :path=>"Dosis/aldocumar3mg.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aldocumar5mg.jpg",
+  :path=>"Dosis/aldocumar5mg.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"blanco_mg_screen.bmp",
+  :path=>"Dosis/blanco_mg_screen.bmp",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"impresora.jpg",
+  :path=>"Dosis/impresora.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"7x32.jpg",
+  :path=>"Dosis/printIcons/7x32.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Copia de s3.jpg",
+  :path=>"Dosis/printIcons/Copia de s3.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"Dosis/printIcons/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"blanc.jpg",
+  :path=>"Dosis/printIcons/blanc.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"jeringaG.jpg",
+  :path=>"Dosis/printIcons/jeringaG.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"jeringaP.jpg",
+  :path=>"Dosis/printIcons/jeringaP.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s0,125.jpg",
+  :path=>"Dosis/printIcons/s0,125.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s0,250.jpg",
+  :path=>"Dosis/printIcons/s0,250.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s0,500.jpg",
+  :path=>"Dosis/printIcons/s0,500.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s0,750.jpg",
+  :path=>"Dosis/printIcons/s0,750.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s0.jpg",
+  :path=>"Dosis/printIcons/s0.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s1,125.jpg",
+  :path=>"Dosis/printIcons/s1,125.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s1,250.jpg",
+  :path=>"Dosis/printIcons/s1,250.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s1,500.jpg",
+  :path=>"Dosis/printIcons/s1,500.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s1,750.jpg",
+  :path=>"Dosis/printIcons/s1,750.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s1.jpg",
+  :path=>"Dosis/printIcons/s1.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s2,125.jpg",
+  :path=>"Dosis/printIcons/s2,125.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s2,250.jpg",
+  :path=>"Dosis/printIcons/s2,250.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s2,500.jpg",
+  :path=>"Dosis/printIcons/s2,500.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s2,750.jpg",
+  :path=>"Dosis/printIcons/s2,750.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s2.jpg",
+  :path=>"Dosis/printIcons/s2.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"s3.jpg",
+  :path=>"Dosis/printIcons/s3.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN0,5.jpg",
+  :path=>"Dosis/printIcons/sUN0,5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN1,5.jpg",
+  :path=>"Dosis/printIcons/sUN1,5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN1.jpg",
+  :path=>"Dosis/printIcons/sUN1.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN2,5.jpg",
+  :path=>"Dosis/printIcons/sUN2,5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN2.jpg",
+  :path=>"Dosis/printIcons/sUN2.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN3,5.jpg",
+  :path=>"Dosis/printIcons/sUN3,5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN3.jpg",
+  :path=>"Dosis/printIcons/sUN3.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN4,5.jpg",
+  :path=>"Dosis/printIcons/sUN4,5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN4.jpg",
+  :path=>"Dosis/printIcons/sUN4.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sUN5.jpg",
+  :path=>"Dosis/printIcons/sUN5.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"FileBrowser/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"details.png",
+  :path=>"FileBrowser/details.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"file.gif",
+  :path=>"FileBrowser/file.gif",
+  :uses=>{:fwk=>["Main/Dialogs/FileBrowser.xml"], :code=>[]}},
+ {:name=>"folder.gif",
+  :path=>"FileBrowser/folder.gif",
+  :uses=>{:fwk=>["Main/Dialogs/FileBrowser.xml"], :code=>[]}},
+ {:name=>"folder_up.png",
+  :path=>"FileBrowser/folder_up.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"list.png",
+  :path=>"FileBrowser/list.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"Fons-degradatgris.gif",
+  :path=>"Fons-degradatgris.gif",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"Comment_off.gif",
+  :path=>"Micro/Comment_off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Declared.gif",
+  :path=>"Micro/Declared.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>["LISPages/Micro/Validation/Preview.xml"]}},
+ {:name=>"LabelPending.gif",
+  :path=>"Micro/LabelPending.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"LabelPending_off.gif",
+  :path=>"Micro/LabelPending_off.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"MMD.gif",
+  :path=>"Micro/MMD.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"NoSowing.gif",
+  :path=>"Micro/NoSowing.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"No_Label.gif",
+  :path=>"Micro/No_Label.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"PrintPending.gif",
+  :path=>"Micro/PrintPending.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"PrintPending_off.gif",
+  :path=>"Micro/PrintPending_off.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>
+     ["LISPages/Micro/Validation/Preview.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml"]}},
+ {:name=>"PrintProvisional.gif",
+  :path=>"Micro/PrintProvisional.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>
+     ["LISPages/Micro/Validation/Preview.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml"]}},
+ {:name=>"Realized.gif",
+  :path=>"Micro/Realized.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Realized_off.gif",
+  :path=>"Micro/Realized_off.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SowingPending.gif",
+  :path=>"Micro/SowingPending.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SowingPending_off.gif",
+  :path=>"Micro/SowingPending_off.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"Micro/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Validation_Pending.gif",
+  :path=>"Micro/Validation_Pending.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>["LISPages/Micro/Validation/Preview.xml"]}},
+ {:name=>"Validation_Prevalidated.gif",
+  :path=>"Micro/Validation_Prevalidated.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>
+     ["LISPages/Micro/Validation/Preview.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml"]}},
+ {:name=>"Validation_Validated.gif",
+  :path=>"Micro/Validation_Validated.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>
+     ["LISPages/Micro/Validation/Preview.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml"]}},
+ {:name=>"Validation_pending.png",
+  :path=>"Micro/Validation_pending.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"blank.gif",
+  :path=>"Micro/blank.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"comment.gif",
+  :path=>"Micro/comment.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_horitzontal.gif",
+  :path=>"Micro/fletxa_horitzontal.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_horitzontal_active.gif",
+  :path=>"Micro/fletxa_horitzontal_active.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"Micro/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical_active.gif",
+  :path=>"Micro/fletxa_vertical_active.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"Patients/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"unknown.gif",
+  :path=>"Patients/unknown.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/PatientHandling/PatientDetails.xml"]}},
+ {:name=>"Thumbs.db",
+  :path=>"Performance/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"gradient.gif",
+  :path=>"Performance/gradient.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Tools/PagePerformance.xml"]}},
+ {:name=>"icon_IE.gif",
+  :path=>"Performance/icon_IE.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icon_firefox.gif",
+  :path=>"Performance/icon_firefox.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"FonsProactivity.gif",
+  :path=>"Proactivity/FonsProactivity.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"FonsProactivity1200.gif",
+  :path=>"Proactivity/FonsProactivity1200.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"FonsProactivity800.gif",
+  :path=>"Proactivity/FonsProactivity800.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"OrderDrowDownFons.gif",
+  :path=>"Proactivity/OrderDrowDownFons.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"OrderSelector.gif",
+  :path=>"Proactivity/OrderSelector.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"SeverityHigh.gif",
+  :path=>"Proactivity/SeverityHigh.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SeverityHigh_Readed.gif",
+  :path=>"Proactivity/SeverityHigh_Readed.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SeverityLow.gif",
+  :path=>"Proactivity/SeverityLow.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SeverityLow_Readed.gif",
+  :path=>"Proactivity/SeverityLow_Readed.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SeverityMedium.gif",
+  :path=>"Proactivity/SeverityMedium.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"SeverityMedium_Readed.gif",
+  :path=>"Proactivity/SeverityMedium_Readed.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"Proactivity/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Warnings.gif",
+  :path=>"Proactivity/Warnings.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"baixDesplegableOrder.gif",
+  :path=>"Proactivity/baixDesplegableOrder.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"check.gif",
+  :path=>"Proactivity/check.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["Components/em/wp/zdkDummyPage.xml",
+      "LISPages/Barcode/AdmLabels.xml",
+      "LISPages/Barcode/PrinterConnections.xml",
+      "LISPages/Barcode/Printers.xml",
+      "LISPages/DailyProcess/Launcher.xml",
+      "LISPages/DailyProcess/ProgressPopup.xml",
+      "LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/DashBoards/ResponseTimeAlarms.xml",
+      "LISPages/ELSA/Configuracion.xml",
+      "LISPages/ELSA/Eventos.xml",
+      "LISPages/Estadisticas/ConceptosEst.xml",
+      "LISPages/Estadisticas/Estadisticas.xml",
+      "LISPages/GeneralMasterFiles/AlarmTypesAdministration.xml",
+      "LISPages/GeneralMasterFiles/CodifiedComments.xml",
+      "LISPages/GeneralMasterFiles/DemographicValues.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrder.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrderPat.xml",
+      "LISPages/GeneralMasterFiles/Events.xml",
+      "LISPages/GeneralMasterFiles/FunctionalTest.xml",
+      "LISPages/GeneralMasterFiles/GroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/OEPanelScreenDefinition.xml",
+      "LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/GeneralMasterFiles/SpecimenAdmin.xml",
+      "LISPages/GeneralMasterFiles/StimulationsMaintenance.xml",
+      "LISPages/GeneralMasterFiles/TestDeltaCheck.xml",
+      "LISPages/GeneralMasterFiles/TestExtractionComments.xml",
+      "LISPages/GeneralMasterFiles/TestFormulas.xml",
+      "LISPages/GeneralMasterFiles/TestGroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/TestReferences.xml",
+      "LISPages/GeneralMasterFiles/Tests.xml",
+      "LISPages/GeneralMasterFiles/Tubes.xml",
+      "LISPages/HCA/ChanelConfiguration.xml",
+      "LISPages/HCA/ConfigUtils.xml",
+      "LISPages/HCA/ConnectionsConfiguration.xml",
+      "LISPages/HCA/HostConfiguration.xml",
+      "LISPages/HCA/HostDefinition.xml",
+      "LISPages/HCA/IE/ATBGMapping.xml",
+      "LISPages/HCA/IE/Actions.xml",
+      "LISPages/HCA/IE/AlarmsMapping.xml",
+      "LISPages/HCA/IE/AtbMapping.xml",
+      "LISPages/HCA/IE/ControlMapping.xml",
+      "LISPages/HCA/IE/CultureMapping.xml",
+      "LISPages/HCA/IE/DemogMapping.xml",
+      "LISPages/HCA/IE/DemogValue.xml",
+      "LISPages/HCA/IE/ExportOrderConfig.xml",
+      "LISPages/HCA/IE/HostConfig.xml",
+      "LISPages/HCA/IE/ImportPatients.xml",
+      "LISPages/HCA/IE/IncomingPatientsControl.xml",
+      "LISPages/HCA/IE/InstrumentsMapping.xml",
+      "LISPages/HCA/IE/LocationMapping.xml",
+      "LISPages/HCA/IE/MFConf.xml",
+      "LISPages/HCA/IE/ManualHostUpload.xml",
+      "LISPages/HCA/IE/ResultMapping.xml",
+      "LISPages/HCA/IE/SpecimenMapping.xml",
+      "LISPages/HCA/IE/StimulationMapping.xml",
+      "LISPages/HCA/IE/TestMapping.xml",
+      "LISPages/HCA/ImportMasterFile.xml",
+      "LISPages/HCA/MSGDefinition.xml",
+      "LISPages/HCA/MessageHandler.xml",
+      "LISPages/HCA/ProtocolConfiguration.xml",
+      "LISPages/HCA/ProtocolErrors.xml",
+      "LISPages/HCA/ReceiveConfiguration.xml",
+      "LISPages/HCA/ReceiveXMLConfig.xml",
+      "LISPages/HCA/SendConfiguration.xml",
+      "LISPages/HCA/SendXMLConfiguration.xml",
+      "LISPages/Haematology/CounterConfiguration.xml",
+      "LISPages/Haematology/PathConfiguration.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/GeneralMasterFiles/AnatomicLocations.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiograms.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticFamilies.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticMethods.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiotics.xml",
+      "LISPages/Micro/GeneralMasterFiles/Cultures.xml",
+      "LISPages/Micro/GeneralMasterFiles/Results.xml",
+      "LISPages/Micro/GeneralMasterFiles/ResultsGroups.xml",
+      "LISPages/Micro/GeneralMasterFiles/Tests.xml",
+      "LISPages/Micro/PendingQuery/PendingQuery.xml",
+      "LISPages/Micro/Validation/ATBGConjuntos.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml",
+      "LISPages/Micro/WorkingList/ATBGGroups.xml",
+      "LISPages/Operator/MaintenanceAccessPermissions.xml",
+      "LISPages/Operator/MenuAccessPermissions.xml",
+      "LISPages/Operator/Permissions.xml",
+      "LISPages/Operator/Profiles.xml",
+      "LISPages/Operator/Users.xml",
+      "LISPages/Operator/WarningsConfiguration.xml",
+      "LISPages/OpticalReader/reaReaderOperation.xml",
+      "LISPages/OpticalReader/reaReaderSetup.xml",
+      "LISPages/OpticalReader/reaReaderSheetsSetup.xml",
+      "LISPages/OpticalReader/reaSheetsSetup.xml",
+      "LISPages/OrderEntry/DemographicCorrelations.xml",
+      "LISPages/OrderEntry/LabelConfig.xml",
+      "LISPages/OrderEntry/NewOrderEntryPanels.xml",
+      "LISPages/OrderEntry/OrderContainerIDConfiguration.xml",
+      "LISPages/OrderEntry/OrderIDConfiguration.xml",
+      "LISPages/OrderEntry/SegmentByDemog.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/OrderEntry/TriggeredMultiHostInfoRecovery.xml",
+      "LISPages/PatientHandling/PatientSearch.xml",
+      "LISPages/QC/ControlDefinition.xml",
+      "LISPages/QC/InstrumentAssignment.xml",
+      "LISPages/QC/LotMaintenance.xml",
+      "LISPages/QC/LotValues.xml",
+      "LISPages/QC/LotValuesByInstrument.xml",
+      "LISPages/QC/MaterialDefinition.xml",
+      "LISPages/QC/RulesAssignment.xml",
+      "LISPages/ResultsReporting/ChangeOutputDestination.xml",
+      "LISPages/ResultsReporting/ChangeSettings.xml",
+      "LISPages/ResultsReporting/DemographicsAssignment.xml",
+      "LISPages/ResultsReporting/InstitutionCfg.xml",
+      "LISPages/ResultsReporting/OutputDestinationAssignment.xml",
+      "LISPages/ResultsReporting/Printers.xml",
+      "LISPages/ResultsReporting/ReportsAssignment.xml",
+      "LISPages/ResultsReporting/ReportsDefinition.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/RuleEngine/Actions.xml",
+      "LISPages/RuleEngine/Rules.xml",
+      "LISPages/RuleEngine/RulesControl.xml",
+      "LISPages/RuleEngine/Variables.xml",
+      "LISPages/Selectors/PatienHistoryPopUp.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/SerumBank/MoveCarts.xml",
+      "LISPages/SerumBank/RoomsCfg.xml",
+      "LISPages/SerumBank/SearchPendingTubes.xml",
+      "LISPages/TQM/Audits/Audits.xml",
+      "LISPages/TQM/Audits/AuditsHistory.xml",
+      "LISPages/TQM/CIS/CIS.xml",
+      "LISPages/TQM/CIS/CISHistory.xml",
+      "LISPages/TQM/DeviceMaintenance/DevicesMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/IncidencesPopup.xml",
+      "LISPages/TQM/DeviceMaintenance/ProcedureMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/ProceduresByDeviceNested.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersStaffMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/TaskMaintenance.xml",
+      "LISPages/TQM/Documents/AreasMaintenance.xml",
+      "LISPages/TQM/Documents/DocumentInventory.xml",
+      "LISPages/TQM/Documents/DocumentManagement.xml",
+      "LISPages/TQM/Documents/TypesMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsAssignements.xml",
+      "LISPages/TQM/Incidences/ActionsMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsMonitoring.xml",
+      "LISPages/TQM/Incidences/FieldsMaintenance.xml",
+      "LISPages/TQM/Incidences/IncidencesDeactivation.xml",
+      "LISPages/TQM/Incidences/IncidencesFavorites.xml",
+      "LISPages/TQM/Incidences/IncidencesMonitoring.xml",
+      "LISPages/TQM/Incidences/IncidencesRequest.xml",
+      "LISPages/TQM/Incidences/IncidencesTypesMaintenance.xml",
+      "LISPages/TQM/Indicators/IndicatorsManagement.xml",
+      "LISPages/TQM/Indicators/ManualVariablesManagement.xml",
+      "LISPages/TQM/NoConformities/NoConformities.xml",
+      "LISPages/TQM/NoConformities/NoConformitiesHistory.xml",
+      "LISPages/TQM/Operator/FacilitiesMaintenance.xml",
+      "LISPages/TQM/Operator/UnitsMaintenance.xml",
+      "LISPages/Tools/EventsQueue.xml",
+      "LISPages/Tools/LicenseRegister.xml",
+      "LISPages/Tools/UnlockOrders.xml",
+      "LISPages/Urinalysis/uriTestConfiguration.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationCriteriaMaintenance.xml",
+      "LISPages/Validation/ValidationCriteriaPerUser.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/ScreenConfiguration.xml",
+      "LISPages/WorkArea/WKAMaintenance.xml",
+      "LISPages/WorkingLists/WorkingListsGroups.xml",
+      "LISPages/WorkingLists/WorkingListsMaintenance.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/Dilutions.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/InstrumentDefinition.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversion.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversionQC.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/TestMapping.xml",
+      "LISPages/eFlow/Connections/Status/AliquotGroups.xml",
+      "LISPages/eFlow/Connections/Status/MPARackReuse.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationSelection.xml",
+      "LISPages/eFlow/Connections/Status/SystemStatus.xml",
+      "LISPages/eFlow/GeneralMasterFiles/ArchiveLocationDefinition.xml",
+      "LISPages/eFlow/GeneralMasterFiles/DistributionDefaultAction.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetCorrespondence.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetSorting.xml",
+      "LISPages/eFlow/GeneralMasterFiles/Targets.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/SampleTracking.xml"]}},
+ {:name=>"check_active.png",
+  :path=>"Proactivity/check_active.png",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"downArrow.gif",
+  :path=>"Proactivity/downArrow.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml",
+      "Main/ProactivityArea.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"Proactivity/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"generalazul.gif",
+  :path=>"Proactivity/generalazul.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/EpidemiologicRegister/Print.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"i_TQM.gif",
+  :path=>"Proactivity/i_TQM.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_elink.gif",
+  :path=>"Proactivity/i_elink.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_omnium.gif",
+  :path=>"Proactivity/i_omnium.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_wl.gif",
+  :path=>"Proactivity/i_wl.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"microazul1.gif",
+  :path=>"Proactivity/microazul1.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/EpidemiologicRegister/Print.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"upArrow.gif",
+  :path=>"Proactivity/upArrow.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISProactivityArea.xml",
+      "Main/ProactivityArea.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"urgencias.gif",
+  :path=>"Proactivity/urgencias.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"nosign.GIF",
+  :path=>"Signature/nosign.GIF",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/Operator/Signature.xml", "LISPages/Operator/Users.xml"]}},
+ {:name=>"Thumbs.db", :path=>"TQM/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fletxa_horitzontal.gif",
+  :path=>"TQM/fletxa_horitzontal.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"TQM/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"arrows_tend.png",
+  :path=>"arrows_tend.png",
+  :uses=>{:fwk=>["Releases/images.zip"], :code=>[]}},
+ {:name=>"arrows_tend2.png",
+  :path=>"arrows_tend2.png",
+  :uses=>
+   {:fwk=>["Releases/css_controlCUI.css"],
+    :code=>["LISPages/DashBoards/TestStats.xml"]}},
+ {:name=>"check.gif",
+  :path=>"check.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["Components/em/wp/zdkDummyPage.xml",
+      "LISPages/Barcode/AdmLabels.xml",
+      "LISPages/Barcode/PrinterConnections.xml",
+      "LISPages/Barcode/Printers.xml",
+      "LISPages/DailyProcess/Launcher.xml",
+      "LISPages/DailyProcess/ProgressPopup.xml",
+      "LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/DashBoards/ResponseTimeAlarms.xml",
+      "LISPages/ELSA/Configuracion.xml",
+      "LISPages/ELSA/Eventos.xml",
+      "LISPages/Estadisticas/ConceptosEst.xml",
+      "LISPages/Estadisticas/Estadisticas.xml",
+      "LISPages/GeneralMasterFiles/AlarmTypesAdministration.xml",
+      "LISPages/GeneralMasterFiles/CodifiedComments.xml",
+      "LISPages/GeneralMasterFiles/DemographicValues.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrder.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrderPat.xml",
+      "LISPages/GeneralMasterFiles/Events.xml",
+      "LISPages/GeneralMasterFiles/FunctionalTest.xml",
+      "LISPages/GeneralMasterFiles/GroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/OEPanelScreenDefinition.xml",
+      "LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/GeneralMasterFiles/SpecimenAdmin.xml",
+      "LISPages/GeneralMasterFiles/StimulationsMaintenance.xml",
+      "LISPages/GeneralMasterFiles/TestDeltaCheck.xml",
+      "LISPages/GeneralMasterFiles/TestExtractionComments.xml",
+      "LISPages/GeneralMasterFiles/TestFormulas.xml",
+      "LISPages/GeneralMasterFiles/TestGroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/TestReferences.xml",
+      "LISPages/GeneralMasterFiles/Tests.xml",
+      "LISPages/GeneralMasterFiles/Tubes.xml",
+      "LISPages/HCA/ChanelConfiguration.xml",
+      "LISPages/HCA/ConfigUtils.xml",
+      "LISPages/HCA/ConnectionsConfiguration.xml",
+      "LISPages/HCA/HostConfiguration.xml",
+      "LISPages/HCA/HostDefinition.xml",
+      "LISPages/HCA/IE/ATBGMapping.xml",
+      "LISPages/HCA/IE/Actions.xml",
+      "LISPages/HCA/IE/AlarmsMapping.xml",
+      "LISPages/HCA/IE/AtbMapping.xml",
+      "LISPages/HCA/IE/ControlMapping.xml",
+      "LISPages/HCA/IE/CultureMapping.xml",
+      "LISPages/HCA/IE/DemogMapping.xml",
+      "LISPages/HCA/IE/DemogValue.xml",
+      "LISPages/HCA/IE/ExportOrderConfig.xml",
+      "LISPages/HCA/IE/HostConfig.xml",
+      "LISPages/HCA/IE/ImportPatients.xml",
+      "LISPages/HCA/IE/IncomingPatientsControl.xml",
+      "LISPages/HCA/IE/InstrumentsMapping.xml",
+      "LISPages/HCA/IE/LocationMapping.xml",
+      "LISPages/HCA/IE/MFConf.xml",
+      "LISPages/HCA/IE/ManualHostUpload.xml",
+      "LISPages/HCA/IE/ResultMapping.xml",
+      "LISPages/HCA/IE/SpecimenMapping.xml",
+      "LISPages/HCA/IE/StimulationMapping.xml",
+      "LISPages/HCA/IE/TestMapping.xml",
+      "LISPages/HCA/ImportMasterFile.xml",
+      "LISPages/HCA/MSGDefinition.xml",
+      "LISPages/HCA/MessageHandler.xml",
+      "LISPages/HCA/ProtocolConfiguration.xml",
+      "LISPages/HCA/ProtocolErrors.xml",
+      "LISPages/HCA/ReceiveConfiguration.xml",
+      "LISPages/HCA/ReceiveXMLConfig.xml",
+      "LISPages/HCA/SendConfiguration.xml",
+      "LISPages/HCA/SendXMLConfiguration.xml",
+      "LISPages/Haematology/CounterConfiguration.xml",
+      "LISPages/Haematology/PathConfiguration.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/GeneralMasterFiles/AnatomicLocations.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiograms.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticFamilies.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticMethods.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiotics.xml",
+      "LISPages/Micro/GeneralMasterFiles/Cultures.xml",
+      "LISPages/Micro/GeneralMasterFiles/Results.xml",
+      "LISPages/Micro/GeneralMasterFiles/ResultsGroups.xml",
+      "LISPages/Micro/GeneralMasterFiles/Tests.xml",
+      "LISPages/Micro/PendingQuery/PendingQuery.xml",
+      "LISPages/Micro/Validation/ATBGConjuntos.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml",
+      "LISPages/Micro/WorkingList/ATBGGroups.xml",
+      "LISPages/Operator/MaintenanceAccessPermissions.xml",
+      "LISPages/Operator/MenuAccessPermissions.xml",
+      "LISPages/Operator/Permissions.xml",
+      "LISPages/Operator/Profiles.xml",
+      "LISPages/Operator/Users.xml",
+      "LISPages/Operator/WarningsConfiguration.xml",
+      "LISPages/OpticalReader/reaReaderOperation.xml",
+      "LISPages/OpticalReader/reaReaderSetup.xml",
+      "LISPages/OpticalReader/reaReaderSheetsSetup.xml",
+      "LISPages/OpticalReader/reaSheetsSetup.xml",
+      "LISPages/OrderEntry/DemographicCorrelations.xml",
+      "LISPages/OrderEntry/LabelConfig.xml",
+      "LISPages/OrderEntry/NewOrderEntryPanels.xml",
+      "LISPages/OrderEntry/OrderContainerIDConfiguration.xml",
+      "LISPages/OrderEntry/OrderIDConfiguration.xml",
+      "LISPages/OrderEntry/SegmentByDemog.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/OrderEntry/TriggeredMultiHostInfoRecovery.xml",
+      "LISPages/PatientHandling/PatientSearch.xml",
+      "LISPages/QC/ControlDefinition.xml",
+      "LISPages/QC/InstrumentAssignment.xml",
+      "LISPages/QC/LotMaintenance.xml",
+      "LISPages/QC/LotValues.xml",
+      "LISPages/QC/LotValuesByInstrument.xml",
+      "LISPages/QC/MaterialDefinition.xml",
+      "LISPages/QC/RulesAssignment.xml",
+      "LISPages/ResultsReporting/ChangeOutputDestination.xml",
+      "LISPages/ResultsReporting/ChangeSettings.xml",
+      "LISPages/ResultsReporting/DemographicsAssignment.xml",
+      "LISPages/ResultsReporting/InstitutionCfg.xml",
+      "LISPages/ResultsReporting/OutputDestinationAssignment.xml",
+      "LISPages/ResultsReporting/Printers.xml",
+      "LISPages/ResultsReporting/ReportsAssignment.xml",
+      "LISPages/ResultsReporting/ReportsDefinition.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/RuleEngine/Actions.xml",
+      "LISPages/RuleEngine/Rules.xml",
+      "LISPages/RuleEngine/RulesControl.xml",
+      "LISPages/RuleEngine/Variables.xml",
+      "LISPages/Selectors/PatienHistoryPopUp.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/SerumBank/MoveCarts.xml",
+      "LISPages/SerumBank/RoomsCfg.xml",
+      "LISPages/SerumBank/SearchPendingTubes.xml",
+      "LISPages/TQM/Audits/Audits.xml",
+      "LISPages/TQM/Audits/AuditsHistory.xml",
+      "LISPages/TQM/CIS/CIS.xml",
+      "LISPages/TQM/CIS/CISHistory.xml",
+      "LISPages/TQM/DeviceMaintenance/DevicesMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/IncidencesPopup.xml",
+      "LISPages/TQM/DeviceMaintenance/ProcedureMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/ProceduresByDeviceNested.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersStaffMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/TaskMaintenance.xml",
+      "LISPages/TQM/Documents/AreasMaintenance.xml",
+      "LISPages/TQM/Documents/DocumentInventory.xml",
+      "LISPages/TQM/Documents/DocumentManagement.xml",
+      "LISPages/TQM/Documents/TypesMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsAssignements.xml",
+      "LISPages/TQM/Incidences/ActionsMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsMonitoring.xml",
+      "LISPages/TQM/Incidences/FieldsMaintenance.xml",
+      "LISPages/TQM/Incidences/IncidencesDeactivation.xml",
+      "LISPages/TQM/Incidences/IncidencesFavorites.xml",
+      "LISPages/TQM/Incidences/IncidencesMonitoring.xml",
+      "LISPages/TQM/Incidences/IncidencesRequest.xml",
+      "LISPages/TQM/Incidences/IncidencesTypesMaintenance.xml",
+      "LISPages/TQM/Indicators/IndicatorsManagement.xml",
+      "LISPages/TQM/Indicators/ManualVariablesManagement.xml",
+      "LISPages/TQM/NoConformities/NoConformities.xml",
+      "LISPages/TQM/NoConformities/NoConformitiesHistory.xml",
+      "LISPages/TQM/Operator/FacilitiesMaintenance.xml",
+      "LISPages/TQM/Operator/UnitsMaintenance.xml",
+      "LISPages/Tools/EventsQueue.xml",
+      "LISPages/Tools/LicenseRegister.xml",
+      "LISPages/Tools/UnlockOrders.xml",
+      "LISPages/Urinalysis/uriTestConfiguration.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationCriteriaMaintenance.xml",
+      "LISPages/Validation/ValidationCriteriaPerUser.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/ScreenConfiguration.xml",
+      "LISPages/WorkArea/WKAMaintenance.xml",
+      "LISPages/WorkingLists/WorkingListsGroups.xml",
+      "LISPages/WorkingLists/WorkingListsMaintenance.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/Dilutions.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/InstrumentDefinition.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversion.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversionQC.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/TestMapping.xml",
+      "LISPages/eFlow/Connections/Status/AliquotGroups.xml",
+      "LISPages/eFlow/Connections/Status/MPARackReuse.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationSelection.xml",
+      "LISPages/eFlow/Connections/Status/SystemStatus.xml",
+      "LISPages/eFlow/GeneralMasterFiles/ArchiveLocationDefinition.xml",
+      "LISPages/eFlow/GeneralMasterFiles/DistributionDefaultAction.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetCorrespondence.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetSorting.xml",
+      "LISPages/eFlow/GeneralMasterFiles/Targets.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/SampleTracking.xml"]}},
+ {:name=>"Thumbs.db",
+  :path=>"controls/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"breadcrumb.png",
+  :path=>"controls/breadcrumb.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"breadcrumb_active_left.png",
+  :path=>"controls/breadcrumb_active_left.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_active_right.png",
+  :path=>"controls/breadcrumb_active_right.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_middle_active.png",
+  :path=>"controls/breadcrumb_middle_active.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_middle_normal.png",
+  :path=>"controls/breadcrumb_middle_normal.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_middle_selected.png",
+  :path=>"controls/breadcrumb_middle_selected.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_normal_left.png",
+  :path=>"controls/breadcrumb_normal_left.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_normal_right.png",
+  :path=>"controls/breadcrumb_normal_right.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"breadcrumb_selected_right.png",
+  :path=>"controls/breadcrumb_selected_right.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"checkbox.png",
+  :path=>"controls/checkbox.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"colleft.png",
+  :path=>"controls/colleft.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"colright.png",
+  :path=>"controls/colright.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"combobox_active.png",
+  :path=>"controls/combobox_active.png",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISButtonList.xml",
+      "LisComponents/LISCalendar.xml",
+      "LisComponents/LISComboBox.xml",
+      "LisComponents/LISDataCombo.xml",
+      "LisComponents/LISDateText.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"combobox_disabled.png",
+  :path=>"controls/combobox_disabled.png",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISButtonList.xml",
+      "LisComponents/LISCalendar.xml",
+      "LisComponents/LISComboBox.xml",
+      "LisComponents/LISDataCombo.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml",
+      "Releases/css_controlCUI.css"],
+    :code=>[]}},
+ {:name=>"combobox_normal.png",
+  :path=>"controls/combobox_normal.png",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISButtonList.xml",
+      "LisComponents/LISCalendar.xml",
+      "LisComponents/LISComboBox.xml",
+      "LisComponents/LISDataCombo.xml",
+      "LisComponents/LISDateText.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml",
+      "Releases/css_controlCUI.css"],
+    :code=>
+     ["LISPages/Micro/PendingQuery/PendingQuery.xml",
+      "LISPages/PatientHandling/PatientMerge.xml",
+      "LISPages/PatientHandling/PatientSearch.xml",
+      "LISPages/PatientHandling/PreOrders.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"first.png",
+  :path=>"controls/first.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"gradient_G12.jpg",
+  :path=>"controls/gradient_G12.jpg",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"gradient_G7.jpg",
+  :path=>"controls/gradient_G7.jpg",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISCalendar.xml",
+      "LisComponents/LISComboBox.xml",
+      "LisComponents/LISDataCombo.xml",
+      "LisComponents/LISDateText.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml",
+      "Releases/css_controlCUI.css"],
+    :code=>[]}},
+ {:name=>"gradient_G8.jpg",
+  :path=>"controls/gradient_G8.jpg",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISCalendar.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml",
+      "Releases/css_controlCUI.css"],
+    :code=>[]}},
+ {:name=>"gradient_G9.jpg",
+  :path=>"controls/gradient_G9.jpg",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISCalendar.xml",
+      "LisComponents/LISComboBox.xml",
+      "LisComponents/LISDataCombo.xml",
+      "LisComponents/LISDateText.xml",
+      "LisComponents/LISTablePane.xml",
+      "Releases/LisComponents.xml",
+      "Releases/css_controlCUI.css"],
+    :code=>[]}},
+ {:name=>"last.png",
+  :path=>"controls/last.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"linedown_active.png",
+  :path=>"controls/linedown_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"linedown_disabled.png",
+  :path=>"controls/linedown_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"linedown_normal.png",
+  :path=>"controls/linedown_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lineleft_normal.png",
+  :path=>"controls/lineleft_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lineright_normal.png",
+  :path=>"controls/lineright_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lineup_active.png",
+  :path=>"controls/lineup_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lineup_disabled.png",
+  :path=>"controls/lineup_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lineup_normal.png",
+  :path=>"controls/lineup_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"pagedown.png",
+  :path=>"controls/pagedown.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"pageup_active.png",
+  :path=>"controls/pageup_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"pageup_disabled.png",
+  :path=>"controls/pageup_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"pageup_normal.png",
+  :path=>"controls/pageup_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"radiobutton_active.png",
+  :path=>"controls/radiobutton_active.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"radiobutton_clicked.png",
+  :path=>"controls/radiobutton_clicked.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"radiobutton_clicked_disabled.png",
+  :path=>"controls/radiobutton_clicked_disabled.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"radiobutton_disabled.png",
+  :path=>"controls/radiobutton_disabled.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"radiobutton_empty.png",
+  :path=>"controls/radiobutton_empty.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"tab_left.png",
+  :path=>"controls/tab_left.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"tab_normal.png",
+  :path=>"controls/tab_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tab_right.png",
+  :path=>"controls/tab_right.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"tab_selecetd_left.png",
+  :path=>"controls/tab_selecetd_left.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tab_selecetd_right.png",
+  :path=>"controls/tab_selecetd_right.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tab_selected.png",
+  :path=>"controls/tab_selected.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tab_selected_left.png",
+  :path=>"controls/tab_selected_left.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"tab_selected_right.png",
+  :path=>"controls/tab_selected_right.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"degradat-llarg.gif",
+  :path=>"degradat-llarg.gif",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"Aliquotas-clas-on.gif",
+  :path=>"eFlow/50pix/Aliquotas-clas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Aliquotas-hechas-on.gif",
+  :path=>"eFlow/50pix/Aliquotas-hechas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"All-results-on.gif",
+  :path=>"eFlow/50pix/All-results-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Any-results-on.gif",
+  :path=>"eFlow/50pix/Any-results-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Batch-done-off.gif",
+  :path=>"eFlow/50pix/Batch-done-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Batch-done-on.gif",
+  :path=>"eFlow/50pix/Batch-done-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Cerrado-on.gif",
+  :path=>"eFlow/50pix/Cerrado-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Cerrado.gif",
+  :path=>"eFlow/50pix/Cerrado.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Error-aliquotas.gif",
+  :path=>"eFlow/50pix/Error-aliquotas.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Listo-Preanalitica-on.gif",
+  :path=>"eFlow/50pix/Listo-Preanalitica-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Primario-clas-on.gif",
+  :path=>"eFlow/50pix/Primario-clas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Query-done-on.gif",
+  :path=>"eFlow/50pix/Query-done-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Rerun-on.gif",
+  :path=>"eFlow/50pix/Rerun-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Thumbs.db",
+  :path=>"eFlow/50pix/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Tubo-archivado-on.gif",
+  :path=>"eFlow/50pix/Tubo-archivado-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Alarm.gif", :path=>"eFlow/Alarm.gif", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Alarma.gif",
+  :path=>"eFlow/Alarma.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Aliquotas-clas-off.gif",
+  :path=>"eFlow/Aliquotas-clas-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Aliquotas-clas-on.gif",
+  :path=>"eFlow/Aliquotas-clas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Aliquotas-hechas-off.gif",
+  :path=>"eFlow/Aliquotas-hechas-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Aliquotas-hechas-on.gif",
+  :path=>"eFlow/Aliquotas-hechas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Aliquotas-manual-off.gif",
+  :path=>"eFlow/Aliquotas-manual-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Aliquotas-manual-on.gif",
+  :path=>"eFlow/Aliquotas-manual-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Aliquotas-off.gif",
+  :path=>"eFlow/Aliquotas-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Aliquotas-on.gif",
+  :path=>"eFlow/Aliquotas-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"All-results-off.gif",
+  :path=>"eFlow/All-results-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"All-results-on.gif",
+  :path=>"eFlow/All-results-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Analitica-off.gif",
+  :path=>"eFlow/Analitica-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Analitica-on.gif",
+  :path=>"eFlow/Analitica-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Any-results-off.gif",
+  :path=>"eFlow/Any-results-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Any-results-on.gif",
+  :path=>"eFlow/Any-results-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Area-off.gif",
+  :path=>"eFlow/Area-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Area-on.gif",
+  :path=>"eFlow/Area-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Batch-done-off.gif",
+  :path=>"eFlow/Batch-done-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Batch-done-on.gif",
+  :path=>"eFlow/Batch-done-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Cerrado-off.gif",
+  :path=>"eFlow/Cerrado-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Cerrado-on.gif",
+  :path=>"eFlow/Cerrado-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Destino-archivado-off.gif",
+  :path=>"eFlow/Destino-archivado-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Destino-archivado-on.gif",
+  :path=>"eFlow/Destino-archivado-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Empty.gif",
+  :path=>"eFlow/Empty.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Error-aliquotas-off.gif",
+  :path=>"eFlow/Error-aliquotas-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Error-aliquotas-on.gif",
+  :path=>"eFlow/Error-aliquotas-on.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Grupo-off.gif",
+  :path=>"eFlow/Grupo-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Grupo-on.gif",
+  :path=>"eFlow/Grupo-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Listo-Preanalitica-off.gif",
+  :path=>"eFlow/Listo-Preanalitica-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Listo-Preanalitica-on.gif",
+  :path=>"eFlow/Listo-Preanalitica-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Microbiologia-off.gif",
+  :path=>"eFlow/Microbiologia-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Microbiologia-on.gif",
+  :path=>"eFlow/Microbiologia-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Preanalitica-off.gif",
+  :path=>"eFlow/Preanalitica-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Preanalitica-on.gif",
+  :path=>"eFlow/Preanalitica-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Primario-clas-off.gif",
+  :path=>"eFlow/Primario-clas-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Primario-clas-on.gif",
+  :path=>"eFlow/Primario-clas-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Primario-off.gif",
+  :path=>"eFlow/Primario-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Primario-on.gif",
+  :path=>"eFlow/Primario-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Query-done-off.gif",
+  :path=>"eFlow/Query-done-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Query-done-on.gif",
+  :path=>"eFlow/Query-done-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Rerun-off.gif",
+  :path=>"eFlow/Rerun-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Rerun-on.gif",
+  :path=>"eFlow/Rerun-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Thumbs.db", :path=>"eFlow/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Tubo-archivado-off.gif",
+  :path=>"eFlow/Tubo-archivado-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Tubo-archivado-on.gif",
+  :path=>"eFlow/Tubo-archivado-on.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/eFlow/WorkArea/ManualDistribution/UndoTarget.xml"]}},
+ {:name=>"Virtual-target-off.gif",
+  :path=>"eFlow/Virtual-target-off.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Virtual-target-on.gif",
+  :path=>"eFlow/Virtual-target-on.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_caducada.png",
+  :path=>"eFlow/aliq_caducada.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_caducada_posicion.png",
+  :path=>"eFlow/aliq_caducada_posicion.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_posicion.png",
+  :path=>"eFlow/aliq_posicion.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_posicionada.png",
+  :path=>"eFlow/aliq_posicionada.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_reservada.png",
+  :path=>"eFlow/aliq_reservada.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"aliq_vacio.png",
+  :path=>"eFlow/aliq_vacio.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"divisor-MSP-black.png",
+  :path=>"eFlow/divisor-MSP-black.png",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISAliquotGrid.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"divisor-MSP.png",
+  :path=>"eFlow/divisor-MSP.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fletxa_horitzontal.gif",
+  :path=>"eFlow/fletxa_horitzontal.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_horitzontal_active.gif",
+  :path=>"eFlow/fletxa_horitzontal_active.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"eFlow/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical_active.gif",
+  :path=>"eFlow/fletxa_vertical_active.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComAlert.gif",
+  :path=>"elsa/InfoComAlert.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComDisab.gif",
+  :path=>"elsa/InfoComDisab.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComFailed.gif",
+  :path=>"elsa/InfoComFailed.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComOk.gif",
+  :path=>"elsa/InfoComOk.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComShaAlert.gif",
+  :path=>"elsa/InfoComShaAlert.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComShaDisab.gif",
+  :path=>"elsa/InfoComShaDisab.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComShaFailed.gif",
+  :path=>"elsa/InfoComShaFailed.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"InfoComShaOk.gif",
+  :path=>"elsa/InfoComShaOk.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Patch_goto.gif",
+  :path=>"elsa/Patch_goto.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/ELSA/Parches.xml"]}},
+ {:name=>"Patch_lock.gif",
+  :path=>"elsa/Patch_lock.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Patch_mailGet.gif",
+  :path=>"elsa/Patch_mailGet.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/ELSA/Parches.xml"]}},
+ {:name=>"Thumbs.db", :path=>"elsa/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"info_16.gif",
+  :path=>"elsa/info_16.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"info_d16.gif",
+  :path=>"elsa/info_d16.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fonsColumna.gif",
+  :path=>"fonsColumna.gif",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"fonsPopup.gif",
+  :path=>"fonsPopup.gif",
+  :uses=>
+   {:fwk=>["Main/Dialogs/ReLoginCUI.xml", "Main/PageError.xml"],
+    :code=>
+     ["LISPages/DailyProcess/ProgressPopup.xml",
+      "LISPages/Haematology/HematologyValidation.xml",
+      "LISPages/Selectors/MultiListSelector.xml"]}},
+ {:name=>"Accept.gif",
+  :path=>"gridImages/Accept.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/DBI/Traces.xml",
+      "LISPages/HCA/HostStatus.xml",
+      "LISPages/OpticalReader/reaReaderOperation.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationMicroResetSel.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationMicroSelection.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationResetSel.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationSelection.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationTrays.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationTraysReset.xml",
+      "LISPages/eFlow/Connections/Status/SystemStatus.xml"]}},
+ {:name=>"C.gif",
+  :path=>"gridImages/C.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"D.gif",
+  :path=>"gridImages/D.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/Micro/LISMicroTree.xml", "Releases/LisComponents.xml"],
+    :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"H.GIF", :path=>"gridImages/H.GIF", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"I.gif",
+  :path=>"gridImages/I.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"Mhl_Error.gif",
+  :path=>"gridImages/Mhl_Error.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ELSA/Configuracion.xml",
+      "LISPages/HCA/ImportMasterFile.xml",
+      "LISPages/HCA/MessageHandler.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/QC/ReviewResults.xml",
+      "LISPages/Tools/PagePerformance.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveTubeLocation.xml",
+      "LISPages/eFlow/WorkArea/Archive/TrayWithdrawal.xml"]}},
+ {:name=>"Mhl_Locked.gif",
+  :path=>"gridImages/Mhl_Locked.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/HCA/MessageHandler.xml",
+      "LISPages/QC/ReviewResults.xml",
+      "LISPages/Tools/PagePerformance.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"Mhl_NQueued.gif",
+  :path=>"gridImages/Mhl_NQueued.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/HCA/MessageHandler.xml", "LISPages/QC/ReviewResults.xml"]}},
+ {:name=>"Mhl_Queued.gif",
+  :path=>"gridImages/Mhl_Queued.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ELSA/Configuracion.xml",
+      "LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/HCA/MessageHandler.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/QC/ReviewResults.xml",
+      "LISPages/Tools/PagePerformance.xml",
+      "LISPages/Validation/SerologyValidation.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveTubeLocation.xml",
+      "LISPages/eFlow/WorkArea/Archive/TrayWithdrawal.xml"]}},
+ {:name=>"Mhl_Recover.gif",
+  :path=>"gridImages/Mhl_Recover.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/HCA/MessageHandler.xml"]}},
+ {:name=>"Mhl_Rejected.gif",
+  :path=>"gridImages/Mhl_Rejected.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/HCA/MessageHandler.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"P.gif",
+  :path=>"gridImages/P.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"PDF.gif",
+  :path=>"gridImages/PDF.gif",
+  :uses=>
+   {:fwk=>[], :code=>["LISPages/ResultsReporting/ReportsMonitoring.xml"]}},
+ {:name=>"Reject.gif",
+  :path=>"gridImages/Reject.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/BackupAndRestore/BackupAndRestore.xml",
+      "LISPages/DBI/Traces.xml",
+      "LISPages/HCA/HostStatus.xml",
+      "LISPages/OpticalReader/reaReaderOperation.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationMicroResetSel.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationMicroSelection.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationResetSel.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationSelection.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationTrays.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationTraysReset.xml",
+      "LISPages/eFlow/Connections/Status/SystemStatus.xml"]}},
+ {:name=>"Thumbs.db",
+  :path=>"gridImages/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"alarma.gif",
+  :path=>"gridImages/alarma.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/Micro/Validation/Preview.xml"]}},
+ {:name=>"ascendant.gif",
+  :path=>"gridImages/ascendant.gif",
+  :uses=>
+   {:fwk=>["LisComponents/LISTablePane.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"attachment.gif",
+  :path=>"gridImages/attachment.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"blanco.gif",
+  :path=>"gridImages/blanco.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/RuleEngine/RulesControl.xml"]}},
+ {:name=>"blueline.gif",
+  :path=>"gridImages/blueline.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"cexterno.gif",
+  :path=>"gridImages/cexterno.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"comentario.gif",
+  :path=>"gridImages/comentario.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"comentarioanalizador.gif",
+  :path=>"gridImages/comentarioanalizador.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"comentarioprueba.gif",
+  :path=>"gridImages/comentarioprueba.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/Micro/Validation/Validation.xml",
+      "LISPages/QC/ReviewResults.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/SerologyValidation.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/TestQuery.xml"]}},
+ {:name=>"comentariospaciente.gif",
+  :path=>"gridImages/comentariospaciente.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"comentariospeticion.gif",
+  :path=>"gridImages/comentariospeticion.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"csistema.gif",
+  :path=>"gridImages/csistema.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"ctipoauto.gif",
+  :path=>"gridImages/ctipoauto.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"ctipomanual.gif",
+  :path=>"gridImages/ctipomanual.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/Selectors/TempCommentsPopUp.xml"]}},
+ {:name=>"dbrownline.gif",
+  :path=>"gridImages/dbrownline.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"delta.gif",
+  :path=>"gridImages/delta.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"descendant.gif",
+  :path=>"gridImages/descendant.gif",
+  :uses=>
+   {:fwk=>["LisComponents/LISTablePane.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"descendant_blanc.gif",
+  :path=>"gridImages/descendant_blanc.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"diamond.gif",
+  :path=>"gridImages/diamond.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"diamond2.gif",
+  :path=>"gridImages/diamond2.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"dosisazul.gif",
+  :path=>"gridImages/dosisazul.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"dosisgris.gif",
+  :path=>"gridImages/dosisgris.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"error.gif",
+  :path=>"gridImages/error.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ELSA/Eventos.xml",
+      "LISPages/ELSA/Parches.xml",
+      "LISPages/QC/ReviewResults.xml"]}},
+ {:name=>"finalizada.gif",
+  :path=>"gridImages/finalizada.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ELSA/Parches.xml", "LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"generalazul.gif",
+  :path=>"gridImages/generalazul.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/EpidemiologicRegister/Print.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"generalgris.gif",
+  :path=>"gridImages/generalgris.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"generalmicroazul1.gif",
+  :path=>"gridImages/generalmicroazul1.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"generalmicroazul2.gif",
+  :path=>"gridImages/generalmicroazul2.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"generalmicrogris1.gif",
+  :path=>"gridImages/generalmicrogris1.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"generalmicrogris2.gif",
+  :path=>"gridImages/generalmicrogris2.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"grafico.gif",
+  :path=>"gridImages/grafico.gif",
+  :uses=>
+   {:fwk=>[], :code=>["LISPages/ResultsRetrieval/ResultsRetrieval.xml"]}},
+ {:name=>"greenline.gif",
+  :path=>"gridImages/greenline.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"hapasado.gif",
+  :path=>"gridImages/hapasado.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/OrderEntry/StatusOrderTests.xml"]}},
+ {:name=>"hostactivo.gif",
+  :path=>"gridImages/hostactivo.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"hostdesactivado.gif",
+  :path=>"gridImages/hostdesactivado.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoALARM.gif",
+  :path=>"gridImages/icoALARM.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"icoAUMENT.gif",
+  :path=>"gridImages/icoAUMENT.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoAUMENTmuy.gif",
+  :path=>"gridImages/icoAUMENTmuy.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoCAMBIanorm.gif",
+  :path=>"gridImages/icoCAMBIanorm.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoDISMI.gif",
+  :path=>"gridImages/icoDISMI.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoDISMImuy.gif",
+  :path=>"gridImages/icoDISMImuy.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoSOL.gif",
+  :path=>"gridImages/icoSOL.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"icoTIEMPO.gif",
+  :path=>"gridImages/icoTIEMPO.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"icoURG.gif",
+  :path=>"gridImages/icoURG.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"icoURG.jpg",
+  :path=>"gridImages/icoURG.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"image.jpg",
+  :path=>"gridImages/image.jpg",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"impresa.gif",
+  :path=>"gridImages/impresa.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"info_amarillo.gif",
+  :path=>"gridImages/info_amarillo.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"info_rojo.gif",
+  :path=>"gridImages/info_rojo.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"info_verde.gif",
+  :path=>"gridImages/info_verde.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"left.gif",
+  :path=>"gridImages/left.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/ReviewResults.xml"]}},
+ {:name=>"letrasSIN.gif",
+  :path=>"gridImages/letrasSIN.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"limiteinferior.gif",
+  :path=>"gridImages/limiteinferior.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"limitesuperiro.gif",
+  :path=>"gridImages/limitesuperiro.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"microazul1.gif",
+  :path=>"gridImages/microazul1.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/EpidemiologicRegister/Print.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"microazul2.gif",
+  :path=>"gridImages/microazul2.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"microgris1.gif",
+  :path=>"gridImages/microgris1.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"microgris2.gif",
+  :path=>"gridImages/microgris2.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"modificado.gif",
+  :path=>"gridImages/modificado.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkingLists/wklRegisterResults.xml"]}},
+ {:name=>"modificado.png",
+  :path=>"gridImages/modificado.png",
+  :uses=>{:fwk=>[], :code=>["LISPages/Validation/ValidationByOrder.xml"]}},
+ {:name=>"mucho.gif",
+  :path=>"gridImages/mucho.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"normal.gif",
+  :path=>"gridImages/normal.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"ok.gif",
+  :path=>"gridImages/ok.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/BackupAndRestore/BackupAndRestore.xml",
+      "LISPages/ELSA/Eventos.xml",
+      "LISPages/ELSA/Parches.xml"]}},
+ {:name=>"panicoinferior.gif",
+  :path=>"gridImages/panicoinferior.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"panicosuperior.gif",
+  :path=>"gridImages/panicosuperior.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"pendienteclinica.gif",
+  :path=>"gridImages/pendienteclinica.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ELSA/Parches.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"pendienteimprimir.gif",
+  :path=>"gridImages/pendienteimprimir.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"pendienteresultado.gif",
+  :path=>"gridImages/pendienteresultado.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"pendientetecnica.gif",
+  :path=>"gridImages/pendientetecnica.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"poco.gif",
+  :path=>"gridImages/poco.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"puedepasar.gif",
+  :path=>"gridImages/puedepasar.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"redline.gif",
+  :path=>"gridImages/redline.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"retencionclinica.gif",
+  :path=>"gridImages/retencionclinica.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"retenciontecnico.gif",
+  :path=>"gridImages/retenciontecnico.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"revisado.gif",
+  :path=>"gridImages/revisado.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"revisionclinico.gif",
+  :path=>"gridImages/revisionclinico.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"revisiontecnica.gif",
+  :path=>"gridImages/revisiontecnica.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"right.gif",
+  :path=>"gridImages/right.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/ReviewResults.xml"]}},
+ {:name=>"selector.gif",
+  :path=>"gridImages/selector.gif",
+  :uses=>
+   {:fwk=>["LisComponents/LISTablePane.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"sinpruebas.gif",
+  :path=>"gridImages/sinpruebas.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/OrderEntry/StatusOrderTests.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/Validation/ValidationByOrder.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"square.gif",
+  :path=>"gridImages/square.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"square2.gif",
+  :path=>"gridImages/square2.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"stop18x18.gif",
+  :path=>"gridImages/stop18x18.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/RuleEngine/RulesControl.xml"]}},
+ {:name=>"tiempoexeceido.gif",
+  :path=>"gridImages/tiempoexeceido.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/OrderEntry/NewOrderEntryPanels.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml"]}},
+ {:name=>"triang.gif",
+  :path=>"gridImages/triang.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"triang2.gif",
+  :path=>"gridImages/triang2.gif",
+  :uses=>{:fwk=>[], :code=>["LISPages/QC/LJChart.xml"]}},
+ {:name=>"urgencias.gif",
+  :path=>"gridImages/urgencias.gif",
+  :uses=>
+   {:fwk=>["Main/ProactivityArea.xml"],
+    :code=>
+     ["LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Traces/OrderTrace.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/TestQuery.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/OrderTraces.xml"]}},
+ {:name=>"warning.gif",
+  :path=>"gridImages/warning.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/ELSA/Eventos.xml", "LISPages/ELSA/Parches.xml"]}},
+ {:name=>"header_cobas.gif",
+  :path=>"header_cobas.gif",
+  :uses=>{:fwk=>["Main/Login.xml"], :code=>[]}},
+ {:name=>"header_cobas_about.gif",
+  :path=>"header_cobas_about.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>["LISPages/About/About.xml", "LISPages/About/AboutSmall.xml"]}},
+ {:name=>"Thumbs.db", :path=>"icons/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"activate.png",
+  :path=>"icons/activate.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"admin_active.png",
+  :path=>"icons/admin_active.png",
+  :uses=>
+   {:fwk=>["LisComponents/LISTabGroupMain.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"admin_normal.png",
+  :path=>"icons/admin_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"cancel.png",
+  :path=>"icons/cancel.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"clear.png",
+  :path=>"icons/clear.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"close_active.png",
+  :path=>"icons/close_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"close_disabled.png",
+  :path=>"icons/close_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"closecallout_active.png",
+  :path=>"icons/closecallout_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"closecallout_disabled.png",
+  :path=>"icons/closecallout_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"closecallout_normal.png",
+  :path=>"icons/closecallout_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"codebar.png",
+  :path=>"icons/codebar.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"confirm.png",
+  :path=>"icons/confirm.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"date_active.png",
+  :path=>"icons/date_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"date_disabled.png",
+  :path=>"icons/date_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"date_normal.png",
+  :path=>"icons/date_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"edit.png",
+  :path=>"icons/edit.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"favorites.png",
+  :path=>"icons/favorites.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"fletxa_horitzontal.gif",
+  :path=>"icons/fletxa_horitzontal.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"icons/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"graph.png",
+  :path=>"icons/graph.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"help.png",
+  :path=>"icons/help.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"history.png",
+  :path=>"icons/history.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"info_active.png",
+  :path=>"icons/info_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"info_disabled.png",
+  :path=>"icons/info_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"info_normal.png",
+  :path=>"icons/info_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"labels.png",
+  :path=>"icons/labels.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"maintenance_active.png",
+  :path=>"icons/maintenance_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"maintenance_disabled.png",
+  :path=>"icons/maintenance_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"maintenance_normal.png",
+  :path=>"icons/maintenance_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"monitoring_active.png",
+  :path=>"icons/monitoring_active.png",
+  :uses=>
+   {:fwk=>["LisComponents/LISTabGroupMain.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"monitoring_normal.png",
+  :path=>"icons/monitoring_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"myworkplace_active.png",
+  :path=>"icons/myworkplace_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"myworkplace_normal.png",
+  :path=>"icons/myworkplace_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"new.png",
+  :path=>"icons/new.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"newdocument_active.png",
+  :path=>"icons/newdocument_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"newdocument_disabled.png",
+  :path=>"icons/newdocument_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"newdocument_normal.png",
+  :path=>"icons/newdocument_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"order.png",
+  :path=>"icons/order.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"print.png",
+  :path=>"icons/print.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"processing_active.png",
+  :path=>"icons/processing_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"processing_disabled.png",
+  :path=>"icons/processing_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"processing_normal.png",
+  :path=>"icons/processing_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"repeat.png",
+  :path=>"icons/repeat.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"repetitions.png",
+  :path=>"icons/repetitions.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"repetitions2.png",
+  :path=>"icons/repetitions2.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"repetitions3.png",
+  :path=>"icons/repetitions3.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"routine_active.png",
+  :path=>"icons/routine_active.png",
+  :uses=>
+   {:fwk=>["LisComponents/LISTabGroupMain.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"routine_normal.png",
+  :path=>"icons/routine_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"save.png",
+  :path=>"icons/save.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"search.png",
+  :path=>"icons/search.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"search_active.png",
+  :path=>"icons/search_active.png",
+  :uses=>
+   {:fwk=>["LisComponents/LISTabGroupMain.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"search_disabled.png",
+  :path=>"icons/search_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"search_normal.png",
+  :path=>"icons/search_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"selectorder.png",
+  :path=>"icons/selectorder.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"settings_active.png",
+  :path=>"icons/settings_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"settings_disabled.png",
+  :path=>"icons/settings_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"settings_normal.png",
+  :path=>"icons/settings_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"sorting.png",
+  :path=>"icons/sorting.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"validated.png",
+  :path=>"icons/validated.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"yes_active.png",
+  :path=>"icons/yes_active.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"yes_disabled.png",
+  :path=>"icons/yes_disabled.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"yes_normal.png",
+  :path=>"icons/yes_normal.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"zoomin.png",
+  :path=>"icons/zoomin.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"zoomout.png",
+  :path=>"icons/zoomout.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"lo_tlRGB.jpg",
+  :path=>"lo_tlRGB.jpg",
+  :uses=>
+   {:fwk=>["Main/Login.xml"],
+    :code=>["LISPages/About/About.xml", "LISPages/About/AboutSmall.xml"]}},
+ {:name=>"Confirm.jpg",
+  :path=>"messages/Confirm.jpg",
+  :uses=>{:fwk=>["Main/Dialogs/Message.xml"], :code=>[]}},
+ {:name=>"Error.jpg",
+  :path=>"messages/Error.jpg",
+  :uses=>
+   {:fwk=>
+     ["Main/Dialogs/Message.xml", "Main/EmptyPage.xml", "Main/PageError.xml"],
+    :code=>[]}},
+ {:name=>"Info.jpg",
+  :path=>"messages/Info.jpg",
+  :uses=>{:fwk=>["Main/Dialogs/Message.xml"], :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"messages/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Warning.jpg",
+  :path=>"messages/Warning.jpg",
+  :uses=>
+   {:fwk=>
+     ["Main/BrowsersMaintenance.xml",
+      "Main/Dialogs/Message.xml",
+      "Main/LoginAux.xml"],
+    :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"muestra/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"favorites.png",
+  :path=>"muestra/favorites.png",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"grafico1.PNG",
+  :path=>"muestra/grafico1.PNG",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"grafico2.PNG",
+  :path=>"muestra/grafico2.PNG",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"grafico3.PNG",
+  :path=>"muestra/grafico3.PNG",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tasks.png",
+  :path=>"muestra/tasks.png",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"processing-big.gif",
+  :path=>"processing-big.gif",
+  :uses=>{:fwk=>["Main/Main.xml"], :code=>[]}},
+ {:name=>"processing.gif",
+  :path=>"processing.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/BackupAndRestore/BackupAndRestore.xml",
+      "LISPages/Operator/Permissions.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml"]}},
+ {:name=>"roclogo_rgb_72_36.gif",
+  :path=>"roclogo_rgb_72_36.gif",
+  :uses=>
+   {:fwk=>["Main/Login.xml"],
+    :code=>["LISPages/About/About.xml", "LISPages/About/AboutSmall.xml"]}},
+ {:name=>"spacer.gif",
+  :path=>"spacer.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISImage.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISRightBar.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>
+     ["LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/Micro/EpidemiologicRegister/Declaration.xml",
+      "LISPages/Micro/ResultsRetrieval/ResultsRetrieval.xml",
+      "LISPages/Micro/Validation/OrderHistoryPopup.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml",
+      "LISPages/OrderEntry/NewOrderEntryPanels.xml",
+      "LISPages/Urinalysis/uriManagementComment.xml",
+      "LISPages/Urinalysis/uriManagementTest.xml",
+      "LISPages/Validation/FunctionalTests.xml",
+      "LISPages/Validation/SerologyValidation.xml",
+      "LISPages/Validation/Validation.xml",
+      "LISPages/Validation/ValidationByTest.xml"]}},
+ {:name=>"spacer_h.gif",
+  :path=>"spacer_h.gif",
+  :uses=>
+   {:fwk=>["LisComponents/LISSpacer.xml", "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"spacer_v.gif",
+  :path=>"spacer_v.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/LISButtonList.xml",
+      "LisComponents/LISSpacer.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"tabs/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabBottomLine.GIF",
+  :path=>"tabs/tabBottomLine.GIF",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabBottomLine.JPEG",
+  :path=>"tabs/tabBottomLine.JPEG",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOLD_disabled.gif",
+  :path=>"tabs/tabGroupButtonOLD_disabled.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOff.gif",
+  :path=>"tabs/tabGroupButtonOff.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOffOLD.gif",
+  :path=>"tabs/tabGroupButtonOffOLD.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOn.gif",
+  :path=>"tabs/tabGroupButtonOn.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOnOLD.gif",
+  :path=>"tabs/tabGroupButtonOnOLD.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButtonOn_disabled.gif",
+  :path=>"tabs/tabGroupButtonOn_disabled.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["LISPages/TQM/Documents/DocumentInventory.xml",
+      "LISPages/TQM/Documents/DocumentManagement.xml"]}},
+ {:name=>"tabGroupButton_disabled.gif",
+  :path=>"tabs/tabGroupButton_disabled.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabGroupButton_disabledOLD.gif",
+  :path=>"tabs/tabGroupButton_disabledOLD.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabsheetcaption.gif",
+  :path=>"tabs/tabsheetcaption.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"tabsheetcaptionselected.gif",
+  :path=>"tabs/tabsheetcaptionselected.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"IndicatorAlarms.gif",
+  :path=>"title/IndicatorAlarms.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db", :path=>"title/Thumbs.db", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnAjuda.gif",
+  :path=>"title/btnAjuda.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnAlarms.gif",
+  :path=>"title/btnAlarms.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnAlarms_Desplegat.gif",
+  :path=>"title/btnAlarms_Desplegat.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnEtiquetes.gif",
+  :path=>"title/btnEtiquetes.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnLogout.gif",
+  :path=>"title/btnLogout.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnMenu.gif",
+  :path=>"title/btnMenu.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnMenu_Desplegat.gif",
+  :path=>"title/btnMenu_Desplegat.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnPrint.gif",
+  :path=>"title/btnPrint.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"btnSortir.gif",
+  :path=>"title/btnSortir.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"logo.gif",
+  :path=>"title/logo.gif",
+  :uses=>{:fwk=>["Releases/css_controlCUI.css"], :code=>[]}},
+ {:name=>"logo.svg", :path=>"title/logo.svg", :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"roclogo_rgb_72_36.gif",
+  :path=>"title/roclogo_rgb_72_36.gif",
+  :uses=>
+   {:fwk=>["Main/Login.xml"],
+    :code=>["LISPages/About/About.xml", "LISPages/About/AboutSmall.xml"]}},
+ {:name=>"AppDrowDownFons.gif",
+  :path=>"treeMenu/AppDrowDownFons.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"AppSelector.gif",
+  :path=>"treeMenu/AppSelector.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"BackgroundMenu.gif",
+  :path=>"treeMenu/BackgroundMenu.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"Thumbs.db",
+  :path=>"treeMenu/Thumbs.db",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"baixDesplegableApp.gif",
+  :path=>"treeMenu/baixDesplegableApp.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"daltDesplegableApp.gif",
+  :path=>"treeMenu/daltDesplegableApp.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"desplegableApp.gif",
+  :path=>"treeMenu/desplegableApp.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"fletxa_horitzontal.gif",
+  :path=>"treeMenu/fletxa_horitzontal.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"fletxa_vertical.gif",
+  :path=>"treeMenu/fletxa_vertical.gif",
+  :uses=>
+   {:fwk=>
+     ["LisComponents/EFlow/LISEFlowTree.xml",
+      "LisComponents/LISFieldSet.xml",
+      "LisComponents/LISProactivityArea.xml",
+      "LisComponents/LISTitle.xml",
+      "LisComponents/LISTreeMenu.xml",
+      "LisComponents/Micro/LISMicroTree.xml",
+      "LisComponents/TQM/LISIndicatorsTree.xml",
+      "Releases/LisComponents.xml"],
+    :code=>[]}},
+ {:name=>"i_TQM.gif",
+  :path=>"treeMenu/i_TQM.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_eMicroA.gif",
+  :path=>"treeMenu/i_eMicroA.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_edai.gif",
+  :path=>"treeMenu/i_edai.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_edosis.gif",
+  :path=>"treeMenu/i_edosis.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_elink.gif",
+  :path=>"treeMenu/i_elink.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_emicroB.gif",
+  :path=>"treeMenu/i_emicroB.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_general.gif",
+  :path=>"treeMenu/i_general.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_omnium.gif",
+  :path=>"treeMenu/i_omnium.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"i_urg.gif",
+  :path=>"treeMenu/i_urg.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"i_wl.gif",
+  :path=>"treeMenu/i_wl.gif",
+  :uses=>{:fwk=>["Main/ProactivityArea.xml"], :code=>[]}},
+ {:name=>"nodeMenu_Second_fons.gif",
+  :path=>"treeMenu/nodeMenu_Second_fons.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"nodemenu_First.gif",
+  :path=>"treeMenu/nodemenu_First.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"nodemenu_FirstOLD.gif",
+  :path=>"treeMenu/nodemenu_FirstOLD.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"nodemenu_First_Selec.gif",
+  :path=>"treeMenu/nodemenu_First_Selec.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"nodemenu_First_SelecOLD.gif",
+  :path=>"treeMenu/nodemenu_First_SelecOLD.gif",
+  :uses=>{:fwk=>[], :code=>[]}},
+ {:name=>"uncheck.gif",
+  :path=>"uncheck.gif",
+  :uses=>
+   {:fwk=>[],
+    :code=>
+     ["Components/em/wp/zdkDummyPage.xml",
+      "LISPages/Barcode/AdmLabels.xml",
+      "LISPages/Barcode/PrinterConnections.xml",
+      "LISPages/Barcode/Printers.xml",
+      "LISPages/DailyProcess/Launcher.xml",
+      "LISPages/DailyProcess/ProgressPopup.xml",
+      "LISPages/DashBoards/DashBoardManteniance.xml",
+      "LISPages/DashBoards/ResponseTimeAlarms.xml",
+      "LISPages/ELSA/Configuracion.xml",
+      "LISPages/ELSA/Eventos.xml",
+      "LISPages/Estadisticas/ConceptosEst.xml",
+      "LISPages/Estadisticas/Estadisticas.xml",
+      "LISPages/GeneralMasterFiles/AlarmTypesAdministration.xml",
+      "LISPages/GeneralMasterFiles/CodifiedComments.xml",
+      "LISPages/GeneralMasterFiles/DemographicValues.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrder.xml",
+      "LISPages/GeneralMasterFiles/DemographicsAssignmentOrderPat.xml",
+      "LISPages/GeneralMasterFiles/Events.xml",
+      "LISPages/GeneralMasterFiles/FunctionalTest.xml",
+      "LISPages/GeneralMasterFiles/GroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/OEPanelScreenDefinition.xml",
+      "LISPages/GeneralMasterFiles/PanelsDefinition.xml",
+      "LISPages/GeneralMasterFiles/SpecimenAdmin.xml",
+      "LISPages/GeneralMasterFiles/StimulationsMaintenance.xml",
+      "LISPages/GeneralMasterFiles/TestDeltaCheck.xml",
+      "LISPages/GeneralMasterFiles/TestExtractionComments.xml",
+      "LISPages/GeneralMasterFiles/TestFormulas.xml",
+      "LISPages/GeneralMasterFiles/TestGroupsDefinition.xml",
+      "LISPages/GeneralMasterFiles/TestReferences.xml",
+      "LISPages/GeneralMasterFiles/Tests.xml",
+      "LISPages/GeneralMasterFiles/Tubes.xml",
+      "LISPages/HCA/ChanelConfiguration.xml",
+      "LISPages/HCA/ConfigUtils.xml",
+      "LISPages/HCA/ConnectionsConfiguration.xml",
+      "LISPages/HCA/HostConfiguration.xml",
+      "LISPages/HCA/HostDefinition.xml",
+      "LISPages/HCA/IE/ATBGMapping.xml",
+      "LISPages/HCA/IE/Actions.xml",
+      "LISPages/HCA/IE/AlarmsMapping.xml",
+      "LISPages/HCA/IE/AtbMapping.xml",
+      "LISPages/HCA/IE/ControlMapping.xml",
+      "LISPages/HCA/IE/CultureMapping.xml",
+      "LISPages/HCA/IE/DemogMapping.xml",
+      "LISPages/HCA/IE/DemogValue.xml",
+      "LISPages/HCA/IE/ExportOrderConfig.xml",
+      "LISPages/HCA/IE/HostConfig.xml",
+      "LISPages/HCA/IE/ImportPatients.xml",
+      "LISPages/HCA/IE/IncomingPatientsControl.xml",
+      "LISPages/HCA/IE/InstrumentsMapping.xml",
+      "LISPages/HCA/IE/LocationMapping.xml",
+      "LISPages/HCA/IE/MFConf.xml",
+      "LISPages/HCA/IE/ManualHostUpload.xml",
+      "LISPages/HCA/IE/ResultMapping.xml",
+      "LISPages/HCA/IE/SpecimenMapping.xml",
+      "LISPages/HCA/IE/StimulationMapping.xml",
+      "LISPages/HCA/IE/TestMapping.xml",
+      "LISPages/HCA/MSGDefinition.xml",
+      "LISPages/HCA/MessageHandler.xml",
+      "LISPages/HCA/ProtocolConfiguration.xml",
+      "LISPages/HCA/ProtocolErrors.xml",
+      "LISPages/HCA/ReceiveConfiguration.xml",
+      "LISPages/HCA/ReceiveXMLConfig.xml",
+      "LISPages/HCA/SendConfiguration.xml",
+      "LISPages/HCA/SendXMLConfiguration.xml",
+      "LISPages/Haematology/CounterConfiguration.xml",
+      "LISPages/Haematology/PathConfiguration.xml",
+      "LISPages/Micro/EpidemiologicRegister/SendingReceipt.xml",
+      "LISPages/Micro/GeneralMasterFiles/AnatomicLocations.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiograms.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticFamilies.xml",
+      "LISPages/Micro/GeneralMasterFiles/AntibioticMethods.xml",
+      "LISPages/Micro/GeneralMasterFiles/Antibiotics.xml",
+      "LISPages/Micro/GeneralMasterFiles/Cultures.xml",
+      "LISPages/Micro/GeneralMasterFiles/Results.xml",
+      "LISPages/Micro/GeneralMasterFiles/ResultsGroups.xml",
+      "LISPages/Micro/GeneralMasterFiles/Tests.xml",
+      "LISPages/Micro/PendingQuery/PendingQuery.xml",
+      "LISPages/Micro/Validation/ATBGConjuntos.xml",
+      "LISPages/Micro/Validation/Validation.xml",
+      "LISPages/Micro/Validation/ValidationMicro.xml",
+      "LISPages/Micro/WorkingList/ATBGGroups.xml",
+      "LISPages/Operator/MaintenanceAccessPermissions.xml",
+      "LISPages/Operator/MenuAccessPermissions.xml",
+      "LISPages/Operator/Permissions.xml",
+      "LISPages/Operator/Profiles.xml",
+      "LISPages/Operator/Users.xml",
+      "LISPages/Operator/WarningsConfiguration.xml",
+      "LISPages/OpticalReader/reaReaderOperation.xml",
+      "LISPages/OpticalReader/reaReaderSetup.xml",
+      "LISPages/OpticalReader/reaReaderSheetsSetup.xml",
+      "LISPages/OpticalReader/reaSheetsSetup.xml",
+      "LISPages/OrderEntry/DemographicCorrelations.xml",
+      "LISPages/OrderEntry/LabelConfig.xml",
+      "LISPages/OrderEntry/NewOrderEntryPanels.xml",
+      "LISPages/OrderEntry/OrderContainerIDConfiguration.xml",
+      "LISPages/OrderEntry/OrderIDConfiguration.xml",
+      "LISPages/OrderEntry/SegmentByDemog.xml",
+      "LISPages/OrderEntry/TriggeredMultiHostInfoRecovery.xml",
+      "LISPages/PatientHandling/PatientSearch.xml",
+      "LISPages/QC/ControlDefinition.xml",
+      "LISPages/QC/InstrumentAssignment.xml",
+      "LISPages/QC/LotMaintenance.xml",
+      "LISPages/QC/LotValues.xml",
+      "LISPages/QC/LotValuesByInstrument.xml",
+      "LISPages/QC/MaterialDefinition.xml",
+      "LISPages/QC/RulesAssignment.xml",
+      "LISPages/ResultsReporting/ChangeOutputDestination.xml",
+      "LISPages/ResultsReporting/ChangeSettings.xml",
+      "LISPages/ResultsReporting/DemographicsAssignment.xml",
+      "LISPages/ResultsReporting/InstitutionCfg.xml",
+      "LISPages/ResultsReporting/OutputDestinationAssignment.xml",
+      "LISPages/ResultsReporting/Printers.xml",
+      "LISPages/ResultsReporting/ReportsAssignment.xml",
+      "LISPages/ResultsReporting/ReportsDefinition.xml",
+      "LISPages/ResultsRetrieval/OrdersSearch.xml",
+      "LISPages/RuleEngine/Actions.xml",
+      "LISPages/RuleEngine/Rules.xml",
+      "LISPages/RuleEngine/RulesControl.xml",
+      "LISPages/RuleEngine/Variables.xml",
+      "LISPages/Selectors/PatienHistoryPopUp.xml",
+      "LISPages/Selectors/TempCommentsPopUp.xml",
+      "LISPages/SerumBank/MoveCarts.xml",
+      "LISPages/SerumBank/RoomsCfg.xml",
+      "LISPages/SerumBank/SearchPendingTubes.xml",
+      "LISPages/TQM/Audits/Audits.xml",
+      "LISPages/TQM/Audits/AuditsHistory.xml",
+      "LISPages/TQM/CIS/CIS.xml",
+      "LISPages/TQM/CIS/CISHistory.xml",
+      "LISPages/TQM/DeviceMaintenance/DevicesMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/IncidencesPopup.xml",
+      "LISPages/TQM/DeviceMaintenance/ProcedureMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/ProceduresByDeviceNested.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/SuppliersStaffMaintenance.xml",
+      "LISPages/TQM/DeviceMaintenance/TaskMaintenance.xml",
+      "LISPages/TQM/Documents/AreasMaintenance.xml",
+      "LISPages/TQM/Documents/DocumentInventory.xml",
+      "LISPages/TQM/Documents/DocumentManagement.xml",
+      "LISPages/TQM/Documents/TypesMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsAssignements.xml",
+      "LISPages/TQM/Incidences/ActionsMaintenance.xml",
+      "LISPages/TQM/Incidences/ActionsMonitoring.xml",
+      "LISPages/TQM/Incidences/FieldsMaintenance.xml",
+      "LISPages/TQM/Incidences/IncidencesDeactivation.xml",
+      "LISPages/TQM/Incidences/IncidencesFavorites.xml",
+      "LISPages/TQM/Incidences/IncidencesMonitoring.xml",
+      "LISPages/TQM/Incidences/IncidencesRequest.xml",
+      "LISPages/TQM/Incidences/IncidencesTypesMaintenance.xml",
+      "LISPages/TQM/Indicators/IndicatorsManagement.xml",
+      "LISPages/TQM/Indicators/ManualVariablesManagement.xml",
+      "LISPages/TQM/NoConformities/NoConformities.xml",
+      "LISPages/TQM/NoConformities/NoConformitiesHistory.xml",
+      "LISPages/TQM/Operator/FacilitiesMaintenance.xml",
+      "LISPages/TQM/Operator/UnitsMaintenance.xml",
+      "LISPages/Tools/EventsQueue.xml",
+      "LISPages/Tools/LicenseRegister.xml",
+      "LISPages/Tools/UnlockOrders.xml",
+      "LISPages/Urinalysis/uriTestConfiguration.xml",
+      "LISPages/Validation/RepeatedResults.xml",
+      "LISPages/Validation/ValidationCriteriaMaintenance.xml",
+      "LISPages/Validation/ValidationCriteriaPerUser.xml",
+      "LISPages/WorkArea/OrdersMonitoring.xml",
+      "LISPages/WorkArea/ScreenConfiguration.xml",
+      "LISPages/WorkArea/WKAMaintenance.xml",
+      "LISPages/WorkingLists/WorkingListsGroups.xml",
+      "LISPages/WorkingLists/WorkingListsMaintenance.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/Dilutions.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/InstrumentDefinition.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversion.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/IntervalResultConversionQC.xml",
+      "LISPages/eFlow/Connections/GeneralMasterFiles/TestMapping.xml",
+      "LISPages/eFlow/Connections/Status/AliquotGroups.xml",
+      "LISPages/eFlow/Connections/Status/MPARackReuse.xml",
+      "LISPages/eFlow/Connections/Status/ManualPreparationSelection.xml",
+      "LISPages/eFlow/Connections/Status/SystemStatus.xml",
+      "LISPages/eFlow/GeneralMasterFiles/ArchiveLocationDefinition.xml",
+      "LISPages/eFlow/GeneralMasterFiles/DistributionDefaultAction.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetCorrespondence.xml",
+      "LISPages/eFlow/GeneralMasterFiles/TargetSorting.xml",
+      "LISPages/eFlow/GeneralMasterFiles/Targets.xml",
+      "LISPages/eFlow/WorkArea/Archive/ArchiveConsultation.xml",
+      "LISPages/eFlow/WorkArea/SampleTracking/SampleTracking.xml"]}}]
+images not used= 364
+BotoCalendarNext.gif
+BotoCalendarPrevious.gif
+BtnMenu.gif
+BtnProactivity.gif
+COLORS/44EF3B.gif
+COLORS/4B78A1.gif
+COLORS/C777EF.gif
+COLORS/CF0C0C.gif
+COLORS/FFBE0F.gif
+COLORS/Thumbs.db
+COLORS/black.gif
+COLORS/brown.gif
+COLORS/grey.gif
+COLORS/plum.gif
+COLORS/purple.gif
+Dosis/1_mg_print_0_0p.bmp
+Dosis/1_mg_print_0_5p.bmp
+Dosis/1_mg_print_1_0p.bmp
+Dosis/1_mg_print_1_5p.bmp
+Dosis/1_mg_print_2_0p.bmp
+Dosis/1_mg_print_2_5p.bmp
+Dosis/1_mg_print_3_0p.bmp
+Dosis/1_mg_print_3_5p.bmp
+Dosis/1_mg_print_4_0p.bmp
+Dosis/1_mg_print_4_5p.bmp
+Dosis/1_mg_print_5_0p.bmp
+Dosis/1_mg_print_ip.bmp
+Dosis/1_mg_print_p.bmp
+Dosis/1_mg_screen_0_0p.bmp
+Dosis/1_mg_screen_0_5p.bmp
+Dosis/1_mg_screen_1_0p.bmp
+Dosis/1_mg_screen_1_5p.bmp
+Dosis/1_mg_screen_2_0p.bmp
+Dosis/1_mg_screen_2_5p.bmp
+Dosis/1_mg_screen_3_0p.bmp
+Dosis/1_mg_screen_3_5p.bmp
+Dosis/1_mg_screen_4_0p.bmp
+Dosis/1_mg_screen_4_5p.bmp
+Dosis/1_mg_screen_5_0p.bmp
+Dosis/4_mg_print_0_0p.bmp
+Dosis/4_mg_print_0_125p.bmp
+Dosis/4_mg_print_0_25p.bmp
+Dosis/4_mg_print_0_5p.bmp
+Dosis/4_mg_print_0_75p.bmp
+Dosis/4_mg_print_1_0p.bmp
+Dosis/4_mg_print_1_125p.bmp
+Dosis/4_mg_print_1_25p.bmp
+Dosis/4_mg_print_1_5p.bmp
+Dosis/4_mg_print_1_75p.bmp
+Dosis/4_mg_print_2_0p.bmp
+Dosis/4_mg_print_2_125p.bmp
+Dosis/4_mg_print_2_25p.bmp
+Dosis/4_mg_print_2_5p.bmp
+Dosis/4_mg_print_2_75p.bmp
+Dosis/4_mg_print_3_0p.bmp
+Dosis/4_mg_print_ip_.bmp
+Dosis/4_mg_print_p.bmp
+Dosis/4_mg_screen_0_0p.bmp
+Dosis/4_mg_screen_0_125p.bmp
+Dosis/4_mg_screen_0_25p.bmp
+Dosis/4_mg_screen_0_5p.bmp
+Dosis/4_mg_screen_0_75p.bmp
+Dosis/4_mg_screen_1_0p.bmp
+Dosis/4_mg_screen_1_125p.bmp
+Dosis/4_mg_screen_1_25p.bmp
+Dosis/4_mg_screen_1_5p.bmp
+Dosis/4_mg_screen_1_75p.bmp
+Dosis/4_mg_screen_2_0p.bmp
+Dosis/4_mg_screen_2_125p.bmp
+Dosis/4_mg_screen_2_25p.bmp
+Dosis/4_mg_screen_2_5p.bmp
+Dosis/4_mg_screen_2_75p.bmp
+Dosis/4_mg_screen_3_0p.bmp
+Dosis/BLANCO.jpg
+Dosis/Base1.bmp
+Dosis/Base2.bmp
+Dosis/COMENTARIO.jpg
+Dosis/COMENTARIOgris.bmp
+Dosis/COMENTARIOgris.jpg
+Dosis/CmdACEPTAR.jpg
+Dosis/CmdCACEPTAR.jpg
+Dosis/CmdCANCELAR.jpg
+Dosis/CmdCCANCELAR.jpg
+Dosis/CmdCDICCIONARIO.jpg
+Dosis/CmdCITA.jpg
+Dosis/CmdCOMPET.jpg
+Dosis/CmdCOMPRU.jpg
+Dosis/CmdCONSULTA.jpg
+Dosis/CmdCSALIR.jpg
+Dosis/CmdDEMOGRAFICOS.jpg
+Dosis/CmdDISTRIBUCION.jpg
+Dosis/CmdIMPRIMIR.jpg
+Dosis/CmdINFCOPIA.jpg
+Dosis/CmdINFPREVIO.jpg
+Dosis/CmdREGPRU.jpg
+Dosis/CmdREPETIR.jpg
+Dosis/CmdRESULTADOS.jpg
+Dosis/CmdSALIR.jpg
+Dosis/CmdVALIDAR.jpg
+Dosis/DICCIONARIO.jpg
+Dosis/EstAIMPVAUTO.jpg
+Dosis/EstAIMPVMAN.jpg
+Dosis/EstAVALIDAR.jpg
+Dosis/EstHISTORICO.jpg
+Dosis/EstIMPVAUTO.jpg
+Dosis/EstIMPVMAN.jpg
+Dosis/EstSINCITA.jpg
+Dosis/EstSINDOSIS.jpg
+Dosis/EstSINRESULTADO.jpg
+Dosis/GRIS.bmp
+Dosis/GRIS.jpg
+Dosis/Jeringuilla.bmp
+Dosis/No_X_mg_screen.bmp
+Dosis/Print.jpg
+Dosis/REPETIDO.jpg
+Dosis/Sin tðtulo1.jpg
+Dosis/Thumbs.db
+Dosis/X_mg_screen.bmp
+Dosis/aldocumar10mg.jpg
+Dosis/aldocumar1mg.jpg
+Dosis/aldocumar3mg.jpg
+Dosis/aldocumar5mg.jpg
+Dosis/blanco_mg_screen.bmp
+Dosis/impresora.jpg
+Dosis/printIcons/7x32.jpg
+Dosis/printIcons/Copia de s3.jpg
+Dosis/printIcons/Thumbs.db
+Dosis/printIcons/blanc.jpg
+Dosis/printIcons/jeringaG.jpg
+Dosis/printIcons/jeringaP.jpg
+Dosis/printIcons/s0,125.jpg
+Dosis/printIcons/s0,250.jpg
+Dosis/printIcons/s0,500.jpg
+Dosis/printIcons/s0,750.jpg
+Dosis/printIcons/s0.jpg
+Dosis/printIcons/s1,125.jpg
+Dosis/printIcons/s1,250.jpg
+Dosis/printIcons/s1,500.jpg
+Dosis/printIcons/s1,750.jpg
+Dosis/printIcons/s1.jpg
+Dosis/printIcons/s2,125.jpg
+Dosis/printIcons/s2,250.jpg
+Dosis/printIcons/s2,500.jpg
+Dosis/printIcons/s2,750.jpg
+Dosis/printIcons/s2.jpg
+Dosis/printIcons/s3.jpg
+Dosis/printIcons/sUN0,5.jpg
+Dosis/printIcons/sUN1,5.jpg
+Dosis/printIcons/sUN1.jpg
+Dosis/printIcons/sUN2,5.jpg
+Dosis/printIcons/sUN2.jpg
+Dosis/printIcons/sUN3,5.jpg
+Dosis/printIcons/sUN3.jpg
+Dosis/printIcons/sUN4,5.jpg
+Dosis/printIcons/sUN4.jpg
+Dosis/printIcons/sUN5.jpg
+FileBrowser/Thumbs.db
+Micro/Comment_off.gif
+Micro/PrintPending.gif
+Micro/Thumbs.db
+Micro/Validation_pending.png
+Micro/fletxa_horitzontal_active.gif
+Micro/fletxa_vertical_active.gif
+Patients/Thumbs.db
+Performance/Thumbs.db
+Performance/icon_IE.gif
+Performance/icon_firefox.gif
+Proactivity/FonsProactivity.gif
+Proactivity/FonsProactivity1200.gif
+Proactivity/FonsProactivity800.gif
+Proactivity/OrderDrowDownFons.gif
+Proactivity/OrderSelector.gif
+Proactivity/Thumbs.db
+Proactivity/baixDesplegableOrder.gif
+TQM/Thumbs.db
+Thumbs.db
+controls/Thumbs.db
+controls/breadcrumb.png
+controls/linedown_active.png
+controls/linedown_disabled.png
+controls/linedown_normal.png
+controls/lineleft_normal.png
+controls/lineright_normal.png
+controls/lineup_active.png
+controls/lineup_disabled.png
+controls/lineup_normal.png
+controls/pageup_active.png
+controls/pageup_disabled.png
+controls/pageup_normal.png
+controls/tab_normal.png
+controls/tab_selecetd_left.png
+controls/tab_selecetd_right.png
+controls/tab_selected.png
+eFlow/50pix/Batch-done-off.gif
+eFlow/50pix/Cerrado.gif
+eFlow/50pix/Error-aliquotas.gif
+eFlow/50pix/Thumbs.db
+eFlow/Alarm.gif
+eFlow/Aliquotas-clas-off.gif
+eFlow/Aliquotas-hechas-off.gif
+eFlow/Aliquotas-manual-off.gif
+eFlow/Aliquotas-manual-on.gif
+eFlow/Aliquotas-off.gif
+eFlow/Aliquotas-on.gif
+eFlow/All-results-off.gif
+eFlow/Analitica-off.gif
+eFlow/Analitica-on.gif
+eFlow/Any-results-off.gif
+eFlow/Area-off.gif
+eFlow/Area-on.gif
+eFlow/Batch-done-off.gif
+eFlow/Cerrado-off.gif
+eFlow/Destino-archivado-off.gif
+eFlow/Destino-archivado-on.gif
+eFlow/Error-aliquotas-off.gif
+eFlow/Grupo-off.gif
+eFlow/Grupo-on.gif
+eFlow/Listo-Preanalitica-off.gif
+eFlow/Microbiologia-off.gif
+eFlow/Microbiologia-on.gif
+eFlow/Preanalitica-off.gif
+eFlow/Primario-clas-off.gif
+eFlow/Primario-off.gif
+eFlow/Primario-on.gif
+eFlow/Query-done-off.gif
+eFlow/Rerun-off.gif
+eFlow/Thumbs.db
+eFlow/Tubo-archivado-off.gif
+eFlow/Virtual-target-off.gif
+eFlow/Virtual-target-on.gif
+eFlow/aliq_caducada.png
+eFlow/aliq_caducada_posicion.png
+eFlow/aliq_posicion.png
+eFlow/aliq_posicionada.png
+eFlow/aliq_reservada.png
+eFlow/aliq_vacio.png
+eFlow/divisor-MSP.png
+eFlow/fletxa_horitzontal_active.gif
+eFlow/fletxa_vertical_active.gif
+elsa/InfoComAlert.gif
+elsa/InfoComDisab.gif
+elsa/InfoComFailed.gif
+elsa/InfoComOk.gif
+elsa/InfoComShaAlert.gif
+elsa/InfoComShaDisab.gif
+elsa/InfoComShaFailed.gif
+elsa/InfoComShaOk.gif
+elsa/Patch_lock.gif
+elsa/Thumbs.db
+elsa/info_16.gif
+elsa/info_d16.gif
+gridImages/H.GIF
+gridImages/Thumbs.db
+gridImages/comentario.gif
+gridImages/descendant_blanc.gif
+gridImages/dosisgris.gif
+gridImages/generalgris.gif
+gridImages/generalmicroazul2.gif
+gridImages/generalmicrogris1.gif
+gridImages/generalmicrogris2.gif
+gridImages/hostactivo.gif
+gridImages/hostdesactivado.gif
+gridImages/icoAUMENT.gif
+gridImages/icoAUMENTmuy.gif
+gridImages/icoCAMBIanorm.gif
+gridImages/icoDISMI.gif
+gridImages/icoDISMImuy.gif
+gridImages/icoURG.gif
+gridImages/icoURG.jpg
+gridImages/image.jpg
+gridImages/microazul2.gif
+gridImages/microgris1.gif
+gridImages/microgris2.gif
+gridImages/mucho.gif
+gridImages/normal.gif
+gridImages/poco.gif
+gridImages/puedepasar.gif
+gridImages/revisado.gif
+icons/Thumbs.db
+icons/admin_normal.png
+icons/close_active.png
+icons/close_disabled.png
+icons/closecallout_active.png
+icons/closecallout_disabled.png
+icons/closecallout_normal.png
+icons/date_active.png
+icons/date_disabled.png
+icons/date_normal.png
+icons/info_active.png
+icons/info_disabled.png
+icons/info_normal.png
+icons/maintenance_active.png
+icons/maintenance_disabled.png
+icons/maintenance_normal.png
+icons/monitoring_normal.png
+icons/myworkplace_active.png
+icons/myworkplace_normal.png
+icons/newdocument_active.png
+icons/newdocument_disabled.png
+icons/newdocument_normal.png
+icons/processing_active.png
+icons/processing_disabled.png
+icons/processing_normal.png
+icons/repetitions2.png
+icons/repetitions3.png
+icons/routine_normal.png
+icons/search_disabled.png
+icons/search_normal.png
+icons/settings_active.png
+icons/settings_disabled.png
+icons/settings_normal.png
+icons/yes_active.png
+icons/yes_disabled.png
+icons/yes_normal.png
+icons/zoomin.png
+icons/zoomout.png
+messages/Thumbs.db
+muestra/Thumbs.db
+muestra/grafico1.PNG
+muestra/grafico2.PNG
+muestra/grafico3.PNG
+muestra/tasks.png
+tabs/Thumbs.db
+tabs/tabBottomLine.GIF
+tabs/tabBottomLine.JPEG
+tabs/tabGroupButtonOLD_disabled.gif
+tabs/tabGroupButtonOff.gif
+tabs/tabGroupButtonOffOLD.gif
+tabs/tabGroupButtonOn.gif
+tabs/tabGroupButtonOnOLD.gif
+tabs/tabGroupButton_disabled.gif
+tabs/tabGroupButton_disabledOLD.gif
+tabs/tabsheetcaption.gif
+tabs/tabsheetcaptionselected.gif
+title/IndicatorAlarms.gif
+title/Thumbs.db
+title/btnAjuda.gif
+title/btnAlarms.gif
+title/btnAlarms_Desplegat.gif
+title/btnEtiquetes.gif
+title/btnLogout.gif
+title/btnMenu.gif
+title/btnMenu_Desplegat.gif
+title/btnPrint.gif
+title/btnSortir.gif
+title/logo.svg
+treeMenu/AppDrowDownFons.gif
+treeMenu/AppSelector.gif
+treeMenu/BackgroundMenu.gif
+treeMenu/Thumbs.db
+treeMenu/baixDesplegableApp.gif
+treeMenu/daltDesplegableApp.gif
+treeMenu/desplegableApp.gif
+treeMenu/i_eMicroA.gif
+treeMenu/i_edai.gif
+treeMenu/i_edosis.gif
+treeMenu/i_emicroB.gif
+treeMenu/i_general.gif
+treeMenu/i_urg.gif
+treeMenu/nodeMenu_Second_fons.gif
+treeMenu/nodemenu_First.gif
+treeMenu/nodemenu_FirstOLD.gif
+treeMenu/nodemenu_First_Selec.gif
+treeMenu/nodemenu_First_SelecOLD.gif
+
+images used only on css= 53
+FileBrowser/details.png
+FileBrowser/folder_up.png
+FileBrowser/list.png
+Fons-degradatgris.gif
+controls/breadcrumb_active_left.png
+controls/breadcrumb_active_right.png
+controls/breadcrumb_middle_active.png
+controls/breadcrumb_middle_normal.png
+controls/breadcrumb_middle_selected.png
+controls/breadcrumb_normal_left.png
+controls/breadcrumb_normal_right.png
+controls/breadcrumb_selected_right.png
+controls/checkbox.png
+controls/colleft.png
+controls/colright.png
+controls/first.png
+controls/gradient_G12.jpg
+controls/last.png
+controls/pagedown.png
+controls/radiobutton_active.png
+controls/radiobutton_clicked.png
+controls/radiobutton_clicked_disabled.png
+controls/radiobutton_disabled.png
+controls/radiobutton_empty.png
+controls/tab_left.png
+controls/tab_right.png
+controls/tab_selected_left.png
+controls/tab_selected_right.png
+degradat-llarg.gif
+fonsColumna.gif
+icons/activate.png
+icons/cancel.png
+icons/clear.png
+icons/codebar.png
+icons/confirm.png
+icons/edit.png
+icons/favorites.png
+icons/graph.png
+icons/help.png
+icons/history.png
+icons/labels.png
+icons/new.png
+icons/order.png
+icons/print.png
+icons/repeat.png
+icons/repetitions.png
+icons/save.png
+icons/search.png
+icons/selectorder.png
+icons/sorting.png
+icons/validated.png
+muestra/favorites.png
+title/logo.gif
+
+images used only on fwk= 66
+FileBrowser/file.gif
+FileBrowser/folder.gif
+Micro/LabelPending.gif
+Micro/LabelPending_off.gif
+Micro/MMD.gif
+Micro/NoSowing.gif
+Micro/No_Label.gif
+Micro/Realized.gif
+Micro/Realized_off.gif
+Micro/SowingPending.gif
+Micro/SowingPending_off.gif
+Micro/blank.gif
+Micro/comment.gif
+Micro/fletxa_horitzontal.gif
+Micro/fletxa_vertical.gif
+Proactivity/SeverityHigh.gif
+Proactivity/SeverityHigh_Readed.gif
+Proactivity/SeverityLow.gif
+Proactivity/SeverityLow_Readed.gif
+Proactivity/SeverityMedium.gif
+Proactivity/SeverityMedium_Readed.gif
+Proactivity/Warnings.gif
+Proactivity/check_active.png
+Proactivity/downArrow.gif
+Proactivity/fletxa_vertical.gif
+Proactivity/i_TQM.gif
+Proactivity/i_elink.gif
+Proactivity/i_omnium.gif
+Proactivity/i_wl.gif
+Proactivity/upArrow.gif
+TQM/fletxa_horitzontal.gif
+TQM/fletxa_vertical.gif
+arrows_tend.png
+controls/combobox_active.png
+controls/combobox_disabled.png
+controls/gradient_G7.jpg
+controls/gradient_G8.jpg
+controls/gradient_G9.jpg
+eFlow/Alarma.gif
+eFlow/Error-aliquotas-on.gif
+eFlow/divisor-MSP-black.png
+eFlow/fletxa_horitzontal.gif
+eFlow/fletxa_vertical.gif
+gridImages/ascendant.gif
+gridImages/descendant.gif
+gridImages/selector.gif
+header_cobas.gif
+icons/admin_active.png
+icons/fletxa_horitzontal.gif
+icons/fletxa_vertical.gif
+icons/monitoring_active.png
+icons/routine_active.png
+icons/search_active.png
+messages/Confirm.jpg
+messages/Error.jpg
+messages/Info.jpg
+messages/Warning.jpg
+processing-big.gif
+spacer_h.gif
+spacer_v.gif
+treeMenu/fletxa_horitzontal.gif
+treeMenu/fletxa_vertical.gif
+treeMenu/i_TQM.gif
+treeMenu/i_elink.gif
+treeMenu/i_omnium.gif
+treeMenu/i_wl.gif
+
+images used only on code= 104
+Patients/unknown.gif
+Performance/gradient.gif
+Proactivity/check.gif
+Signature/nosign.GIF
+check.gif
+eFlow/50pix/Aliquotas-clas-on.gif
+eFlow/50pix/Aliquotas-hechas-on.gif
+eFlow/50pix/All-results-on.gif
+eFlow/50pix/Any-results-on.gif
+eFlow/50pix/Batch-done-on.gif
+eFlow/50pix/Cerrado-on.gif
+eFlow/50pix/Listo-Preanalitica-on.gif
+eFlow/50pix/Primario-clas-on.gif
+eFlow/50pix/Query-done-on.gif
+eFlow/50pix/Rerun-on.gif
+eFlow/50pix/Tubo-archivado-on.gif
+eFlow/Aliquotas-clas-on.gif
+eFlow/Aliquotas-hechas-on.gif
+eFlow/All-results-on.gif
+eFlow/Any-results-on.gif
+eFlow/Batch-done-on.gif
+eFlow/Cerrado-on.gif
+eFlow/Empty.gif
+eFlow/Listo-Preanalitica-on.gif
+eFlow/Preanalitica-on.gif
+eFlow/Primario-clas-on.gif
+eFlow/Query-done-on.gif
+eFlow/Rerun-on.gif
+eFlow/Tubo-archivado-on.gif
+elsa/Patch_goto.gif
+elsa/Patch_mailGet.gif
+gridImages/Accept.gif
+gridImages/C.gif
+gridImages/I.gif
+gridImages/Mhl_Error.gif
+gridImages/Mhl_Locked.gif
+gridImages/Mhl_NQueued.gif
+gridImages/Mhl_Queued.gif
+gridImages/Mhl_Recover.gif
+gridImages/Mhl_Rejected.gif
+gridImages/P.gif
+gridImages/PDF.gif
+gridImages/Reject.gif
+gridImages/alarma.gif
+gridImages/attachment.gif
+gridImages/blanco.gif
+gridImages/blueline.gif
+gridImages/cexterno.gif
+gridImages/comentarioanalizador.gif
+gridImages/comentarioprueba.gif
+gridImages/comentariospaciente.gif
+gridImages/comentariospeticion.gif
+gridImages/csistema.gif
+gridImages/ctipoauto.gif
+gridImages/ctipomanual.gif
+gridImages/dbrownline.gif
+gridImages/delta.gif
+gridImages/diamond.gif
+gridImages/diamond2.gif
+gridImages/dosisazul.gif
+gridImages/error.gif
+gridImages/finalizada.gif
+gridImages/generalmicroazul1.gif
+gridImages/grafico.gif
+gridImages/greenline.gif
+gridImages/hapasado.gif
+gridImages/icoALARM.gif
+gridImages/icoSOL.gif
+gridImages/icoTIEMPO.gif
+gridImages/impresa.gif
+gridImages/info_amarillo.gif
+gridImages/info_rojo.gif
+gridImages/info_verde.gif
+gridImages/left.gif
+gridImages/letrasSIN.gif
+gridImages/limiteinferior.gif
+gridImages/limitesuperiro.gif
+gridImages/modificado.gif
+gridImages/modificado.png
+gridImages/ok.gif
+gridImages/panicoinferior.gif
+gridImages/panicosuperior.gif
+gridImages/pendienteclinica.gif
+gridImages/pendienteimprimir.gif
+gridImages/pendienteresultado.gif
+gridImages/pendientetecnica.gif
+gridImages/redline.gif
+gridImages/retencionclinica.gif
+gridImages/retenciontecnico.gif
+gridImages/revisionclinico.gif
+gridImages/revisiontecnica.gif
+gridImages/right.gif
+gridImages/sinpruebas.gif
+gridImages/square.gif
+gridImages/square2.gif
+gridImages/stop18x18.gif
+gridImages/tiempoexeceido.gif
+gridImages/triang.gif
+gridImages/triang2.gif
+gridImages/warning.gif
+header_cobas_about.gif
+processing.gif
+tabs/tabGroupButtonOn_disabled.gif
+uncheck.gif
+
+images used on both= 20
+Micro/Declared.gif
+Micro/PrintPending_off.gif
+Micro/PrintProvisional.gif
+Micro/Validation_Pending.gif
+Micro/Validation_Prevalidated.gif
+Micro/Validation_Validated.gif
+Proactivity/generalazul.gif
+Proactivity/microazul1.gif
+Proactivity/urgencias.gif
+arrows_tend2.png
+controls/combobox_normal.png
+fonsPopup.gif
+gridImages/D.gif
+gridImages/generalazul.gif
+gridImages/microazul1.gif
+gridImages/urgencias.gif
+lo_tlRGB.jpg
+roclogo_rgb_72_36.gif
+spacer.gif
+title/roclogo_rgb_72_36.gif
